@@ -1,0 +1,40 @@
+site_name: Filip Rescic - personal page
+theme: 
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - toc.integrate
+  name: material  
+  font:
+    text: Roboto 
+  icon:
+    logo: material/library-outline
+  palette: 
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+# extra:
+#  alternate:
+#    - name: English
+#      site_url: https://filiprescic.github.io
+#      lang: en
+#    - name: Hrvatski
+#      link: /hr/
+#      lang: hr
+nav: 
+  - index.md
+  - science.md
+  - teaching.md
+
+  
