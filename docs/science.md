@@ -43,6 +43,7 @@ hide:
 
 ## Participation in schools & conferences
 
+- Fifth annual conference on quantum gravity phenomenology in the multi-messenger era (QGMM24), 2024. Madrid, Spain. ([QGMM24](https://teorica.fis.ucm.es/QGMM24/index.html))
 - MPIK-CDY School on the Future of Gamma-Ray Astronomy, 2024. Heidelberg, Germany. ([MPIK-CDY](https://www.mpi-hd.mpg.de/MPIK_CDY_2024/))
 - COST Action CA18108 Fourth Annual Conference, 2023. Rijeka, Croatia. ([Indico](https://indico.capa.unizar.es/event/31/))
 - COST Action CA18108 Third Training School and 59. Winter School of Theoretical Physics "*Gravity - Classical, Quantum and Phenomenology*", 2023. Wojanów, Poland. ([Indico](https://indico.capa.unizar.es/event/30/))
