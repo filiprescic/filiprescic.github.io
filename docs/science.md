@@ -43,7 +43,7 @@ hide:
 
 - 3\. 6. 2024. Defended the Research Area "*Investigating Quantum Gravity's Influence on the Universe Transparency*"
 - 10\. 4. 2024. Completed the course "*Selected chapters in astrophysics*"
-- 26\. 2. 2024. Delivered talk on "*Approaches  Universe transparency study in an LIV scenario*" for the Seminar in Physics course
+- 26\. 2. 2024. Delivered talk on "*Approaches to Universe transparency study in an LIV scenario*" for the Seminar in Physics course
 
 ### Talks
 
