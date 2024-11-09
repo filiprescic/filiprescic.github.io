@@ -2,7 +2,7 @@ site_name: Filip Rescic - personal page
 theme: 
   features:
     - navigation.tabs
-    - navigation.tabs.sticky
+    # - navigation.tabs.sticky
     - navigation.sections
     - toc.integrate
   name: material  
@@ -32,6 +32,7 @@ theme:
 #    - name: Hrvatski
 #      link: /hr/
 #      lang: hr
+plugins: []
 nav: 
   - index.md
   - science.md

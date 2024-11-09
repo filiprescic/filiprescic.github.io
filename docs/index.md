@@ -1,4 +1,9 @@
-# Welcome
+---
+title: "Home page"
+hide: title
+---
+
+# Welcome!
 
 ## General info
 
@@ -13,7 +18,6 @@
 - Quantum Gravity Phenomenology
 - Lorentz Invariance Violation
 - Doubly Special Relativity
-
 
 ## Contact
 
