@@ -5,7 +5,18 @@ hide: title
 
 # Welcome!
 
+<figure markdown="span" style="float: right; margin-left: 40px; margin-bottom: 30px;">
+  <img src="images/photo_github2.jpg" alt="Image title" width="240">
+   <figcaption style="font-size: 0.7em; font-style: italic; text-align: center;">
+    <a href="https://udruga-penkala.hr/mutimir-2022/">Mutimir</a> conference, Association <a href="https://udruga-penkala.hr/en/association-penkala-2/">Penkala</a>, 2022.
+  </figcaption>
+</figure>
+
 ## General info
+
+<!-- ![Image title](images/photo_github.jpg){align=right, width="200", height="auto"} -->
+
+<!-- &nbsp; -->
 
 - Teaching assistant and PhD student at the [Faculty of Physics](https://www.phy.uniri.hr/en/), [University of Rijeka](https://uniri.hr/en/home/)
 - PhD student at the [Faculty of Science](https://ciencias.unizar.es/intymov-incoming-students), [University of Zaragoza](https://www.unizar.es/information-institution/name-and-address)

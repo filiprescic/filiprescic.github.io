@@ -37,5 +37,7 @@ nav:
   - index.md
   - science.md
   - teaching.md
-
+markdown_extensions:
+  - attr_list
+  - md_in_html
   
