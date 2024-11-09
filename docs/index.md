@@ -9,9 +9,11 @@
 
 ## Scientific interests
 
-- Quantum Gravity Phenomenology
-- Lorentz Invariance Violation, Doubly Special Relativity
 - Gamma-ray Astrophysics
+- Quantum Gravity Phenomenology
+- Lorentz Invariance Violation
+- Doubly Special Relativity
+
 
 ## Contact
 
