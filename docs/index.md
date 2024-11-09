@@ -29,6 +29,4 @@ e-mail: [filip.rescic@uniri.hr](mailto:filip.rescic@uniri.hr)
 
 - [Inspire-HEP](https://inspirehep.net/authors/2698695)
 - [ORCID](https://orcid.org/0000-0002-9664-5414)
-- [ResearchGate](https://www.researchgate.net/profile/Filip-Rescic)
 - [Google Scholar](https://scholar.google.com/citations?user=No6TvC4AAAAJ&hl=hr&oi=ao)
-- [GitHub](https://github.com/filiprescic)

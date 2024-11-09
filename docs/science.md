@@ -14,13 +14,20 @@ hide:
 
 ## Memberships
 
+### Current
+
 - *Centro de Astropartículas y Física de Altas Energías* ([CAPA](https://capa.unizar.es/))
 - *The Southern Wide-field Gamma-ray Observatory* ([SWGO](https://www.swgo.org/SWGOWiki/doku.php))
-- Laboratory for astroparticle physics Faculty of Physics, University of Rijeka
-- COST Action CA18108 "Quantum Gravity Phenomenology in the Multi-Messenger Approach" ([QGMM](https://qg-mm.unizar.es/))
+- Research group *Wrinkle* ([Wrinkle](https://www.wrinkle.uniri.hr/))
+- COST Action CA23130 - "*Bridging high and low energies in search of quantum gravity*" (BridgeQG)
+
+### Past
+
+- COST Action CA18108 "*Quantum Gravity Phenomenology in the Multi-Messenger Approach*" ([QGMM](https://qg-mm.unizar.es/))
 
 ## Projects
 
+- 16\. 9. 2024. - 31. 12. 2024. Research mobility to the University of Padova, Department of Physics and Astronomy "Galileo Galilei". [Croatian Science Foundation](https://hrzz.hr/en/) project **MOBDOK-2023**
 - 18\. 12. 2023. - 17.12.2027. Collaborator on the [Croatian Science Foundation](https://hrzz.hr/en/) project **HRZZ IP-2022-10-4595** "Very-high-energy Gamma Ray Astronomy in the Multi-messenger Era"
 - 2024\. - 2025. Collaborator  on the [University of Rijeka](https://uniri.hr/en/) project **uniri-iskusni-prirod-23-24** "UNIRI projekti iskusnih znanstvenika 2023."
 
