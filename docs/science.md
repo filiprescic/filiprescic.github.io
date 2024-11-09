@@ -6,7 +6,7 @@ hide:
 
 ## Publications & preprints
 
-- J.M. Carmona, J.L. Cortes, **F. Rescic**, M.A. Reyes, T. Terzić, "*Approaches to photon absorption in a Lorentz inavariance violation scenario*", ArXiv: [2404.07842](https://arxiv.org/abs/2404.07842) (2024)
+- J.M. Carmona, J.L. Cortés, **F. Rescic**, M.A. Reyes, T. Terzić, "*Approaches to photon absorption in a Lorentz inavariance violation scenario*", *Phys.Rev.D* 110 (2024), ArXiv: [2404.07842](https://arxiv.org/abs/2404.07842), DOI: [10.1103/PhysRevD.110.063035](https://doi.org/10.1103/PhysRevD.110.063035)
 
 - Alves Batista, ..., **F. Rescic**, et al., "*White Paper and Roadmap for Quantum Gravity Phenomenology in the Multi-Messenger Era*", ArXiv: [2312.00409](https://arxiv.org/abs/2312.00409) (2023)
 
@@ -19,7 +19,7 @@ hide:
 - *Centro de Astropartículas y Física de Altas Energías* ([CAPA](https://capa.unizar.es/))
 - *The Southern Wide-field Gamma-ray Observatory* ([SWGO](https://www.swgo.org/SWGOWiki/doku.php))
 - Research group *Wrinkle* ([Wrinkle](https://wrinkle.uniri.hr/))
-- COST Action CA23130 - "*Bridging high and low energies in search of quantum gravity*" (BridgeQG)
+- COST Action CA23130 "*Bridging high and low energies in search of quantum gravity*" (BridgeQG)
 
 ### Past
 

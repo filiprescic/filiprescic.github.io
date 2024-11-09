@@ -9,7 +9,7 @@ theme:
   font:
     text: Roboto 
   icon:
-    logo: material/library-outline
+    logo: material/library
   palette: 
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
