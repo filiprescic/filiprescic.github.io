@@ -60,6 +60,16 @@ hide:
 - ICTP Summer School on Particle Physics, 2021. ([Indico](https://indico.ictp.it/event/9538/other-view?view=ictptimetable))
 - Terrascale Summer School, 2020.
 
+## Honours and awards
+
+- MOBDOK-2023 Research Visit Grant (Croatian Science Foundation, 2024.)
+- Study Completion Scholarship (Ludwig Maximilian University of Munich, 2021.)
+- "Deutschlandstipendium" Scholarship (Federal Republic of Germany, Federal Ministry of Education and research, 2019.)
+- Best Bachelor Thesis Award (University of Rijeka, Department of Physics, 2019.)
+- University Bachelor of Physics with Highest Praise - *Summa Cum Laude* (University of Rijeka, Department of Physics, 2018.)
+- STEM Scholarship (Republic of Croatia, Ministry of Science and Education, 2018.)
+- Scholarship for Excellence (University of Rijeka, 2017.)
+
 ## Public talks
 
 - 24\. 5. 2023. Pint of Science: "*O kvantnoj gravitaciji*" (eng. "*About quantum gravity*"). Rijeka, Croatia
