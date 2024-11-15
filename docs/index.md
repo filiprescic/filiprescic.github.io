@@ -7,13 +7,6 @@ hide:
 
 # Welcome!
 
-<figure markdown="span" style="float: right; margin-left: 70px; margin-bottom: 30px;">
-  <img src="images/photo_github2.jpg" alt="Image title" width="240">
-   <figcaption style="font-size: 0.7em; font-style: italic; text-align: center;">
-    <a href="https://udruga-penkala.hr/mutimir-2022/">Mutimir</a> conference, Association <a href="https://udruga-penkala.hr/en/association-penkala-2/">Penkala</a>, 2022.
-  </figcaption>
-</figure>
-
 <!-- ## General info
 
  ![Image title](images/photo_github.jpg){align=right, width="200", height="auto"}
@@ -25,6 +18,13 @@ hide:
 - Master of Science (2022.). [Faculty of Physics](https://www.physik.lmu.de/en/), [Ludwig Maximilian University of Munich](https://www.lmu.de/en/). -->
 
 Hi! I'm Filip Rescic, a teaching assistant and PhD student at the [Faculty of Physics](https://www.phy.uniri.hr/en/) ([University of Rijeka](https://uniri.hr/en/home/)), and PhD student at the [Faculty of Science](https://ciencias.unizar.es/intymov-incoming-students) ([University of Zaragoza](https://www.unizar.es/information-institution/name-and-address)). Feel free to explore my publications, ongoing projects and teaching material.
+
+<figure markdown="" style="float: right; margin-left: 70px; margin-bottom: 30px;">
+  <img src="images/photo_github2.jpg" alt="Image title" width="240">
+   <figcaption style="font-size: 0.7em; font-style: italic; text-align: center;">
+    <a href="https://udruga-penkala.hr/mutimir-2022/">Mutimir</a> conference, Association <a href="https://udruga-penkala.hr/en/association-penkala-2/">Penkala</a>, 2022.
+  </figcaption>
+</figure>
 
 ## Scientific interests
 

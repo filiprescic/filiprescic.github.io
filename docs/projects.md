@@ -1,9 +1,8 @@
 ---
+title: "Projects"
 hide:
     - navigation
 ---
-
-# Projects
 
 ## SWGO sensitivity to LIV
 

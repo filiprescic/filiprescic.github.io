@@ -8,6 +8,7 @@ theme:
   name: material  
   font:
     text: Roboto 
+  custom_dir: overrides
   icon:
     logo: material/library
   palette: 
@@ -42,10 +43,23 @@ nav:
 markdown_extensions:
   - attr_list
   - md_in_html
-markdown_extensions:
+  - pymdownx.emoji:
+      emoji_index: !!python/name:pymdownx.emoji.twemoji
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+      options:
+        custom_icons:
+          - overrides/.icons
   - pymdownx.arithmatex:
       generic: true
 extra_javascript:
   - javascripts/mathjax.js
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+extra:
+  social:
+    - icon: custom/orcid
+      link: https://orcid.org/0000-0002-9664-5414
+    - icon: custom/inspire
+      link: https://inspirehep.net/authors/2698695
+    - icon: custom/google-scholar
+      link: https://scholar.google.com/citations?user=No6TvC4AAAAJ&hl=hr&oi=ao
   
