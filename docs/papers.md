@@ -2,6 +2,7 @@
 title: "Research papers"
 hide: 
     - toc
+    - navigation
 ---
 
 ## *Approaches to photon absorption in a Lorentz inavariance violation scenario*

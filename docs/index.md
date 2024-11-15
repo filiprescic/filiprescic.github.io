@@ -14,16 +14,17 @@ hide:
   </figcaption>
 </figure>
 
-## General info
+<!-- ## General info
 
-<!-- ![Image title](images/photo_github.jpg){align=right, width="200", height="auto"} -->
-
-<!-- &nbsp; -->
+ ![Image title](images/photo_github.jpg){align=right, width="200", height="auto"}
+ &nbsp; 
 
 - Teaching assistant and PhD student at the [Faculty of Physics](https://www.phy.uniri.hr/en/), [University of Rijeka](https://uniri.hr/en/home/)
 - PhD student at the [Faculty of Science](https://ciencias.unizar.es/intymov-incoming-students), [University of Zaragoza](https://www.unizar.es/information-institution/name-and-address)
 - Member of the PR Team at the [Faculty of Physics](https://www.phy.uniri.hr/en/), [University of Rijeka](https://uniri.hr/en/home/)
-- Master of Science (2022.). [Faculty of Physics](https://www.physik.lmu.de/en/), [Ludwig Maximilian University of Munich](https://www.lmu.de/en/).
+- Master of Science (2022.). [Faculty of Physics](https://www.physik.lmu.de/en/), [Ludwig Maximilian University of Munich](https://www.lmu.de/en/). -->
+
+Hi! I'm Filip Rescic, a teaching assistant and PhD student at the [Faculty of Physics](https://www.phy.uniri.hr/en/) ([University of Rijeka](https://uniri.hr/en/home/)), and PhD student at the [Faculty of Science](https://ciencias.unizar.es/intymov-incoming-students) ([University of Zaragoza](https://www.unizar.es/information-institution/name-and-address)). Feel free to explore my publications, ongoing projects and teaching material.
 
 ## Scientific interests
 
@@ -32,7 +33,7 @@ hide:
 - Lorentz Invariance Violation
 - Doubly Special Relativity
 
-## Contact
+## Contact me
 
 [Faculty of Physics](https://www.phy.uniri.hr/en/), [Univesity of Rijeka](https://uniri.hr/en/home/)
 
