@@ -37,7 +37,15 @@ nav:
   - index.md
   - science.md
   - teaching.md
+  - papers.md
+  - projects.md
 markdown_extensions:
   - attr_list
   - md_in_html
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
   

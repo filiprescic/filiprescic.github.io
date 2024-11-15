@@ -1,11 +1,13 @@
 ---
 title: "Home page"
-hide: title
+hide: 
+    - title
+    - navigation
 ---
 
 # Welcome!
 
-<figure markdown="span" style="float: right; margin-left: 40px; margin-bottom: 30px;">
+<figure markdown="span" style="float: right; margin-left: 70px; margin-bottom: 30px;">
   <img src="images/photo_github2.jpg" alt="Image title" width="240">
    <figcaption style="font-size: 0.7em; font-style: italic; text-align: center;">
     <a href="https://udruga-penkala.hr/mutimir-2022/">Mutimir</a> conference, Association <a href="https://udruga-penkala.hr/en/association-penkala-2/">Penkala</a>, 2022.

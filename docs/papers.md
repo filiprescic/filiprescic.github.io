@@ -1,0 +1,32 @@
+---
+title: "Research papers"
+hide: 
+    - toc
+---
+
+## *Approaches to photon absorption in a Lorentz inavariance violation scenario*
+
+- Authors: J.M. Carmona, J.L. Cortés, **F. Rescic**, M.A. Reyes, T. Terzić
+- Journal: *Physical Review D*
+- DOI: [10.1103/PhysRevD.110.063035](https://doi.org/10.1103/PhysRevD.110.063035)
+- ArXiv: [2404.07842](https://arxiv.org/abs/2404.07842)
+- Year: 2024
+- Abstract: Very high-energy astrophysical gamma rays suffer a suppression of their flux along their propagation due to their interaction, through the $\gamma\gamma\to e^+e^−$ pair-production process, with the soft photon backgrounds present in the Universe. We examine the Universe's transparency to gamma rays within a Lorentz Invariance Violation (LIV) framework, focusing on photon subluminal quadratic corrections driven by a high-energy scale. Based on an explicit calculation, we provide a new expression for the cross section that overcomes the limitations of previous approaches and refines existing constraints for the LIV scale, while we introduce a new approximation that may be useful in LIV scenarios beyond effective field theory. These improvements appear essential for setting constraints on LIV effects with future observations at ultra-high energies, where previous approximations may fall short.
+
+## *White Paper and Roadmap for Quantum Gravity Phenomenology in the Multi-Messenger Era*
+
+- Authors: COST Action CA18108 QGMM
+- ArXiv: [2312.00409](https://arxiv.org/abs/2312.00409)
+- Year: 2023
+- Abstract: The unification of quantum mechanics and general relativity has long been elusive. Only recently have empirical predictions of various possible theories of quantum gravity been put to test. The dawn of multi-messenger high-energy astrophysics has been tremendously beneficial, as it allows us to study particles with much higher energies and travelling much longer distances than possible in terrestrial experiments, but more progress is needed on several fronts.
+A thorough appraisal of current strategies and experimental frameworks, regarding quantum gravity phenomenology, is provided here. Our aim is twofold: a description of tentative multimessenger explorations, plus a focus on future detection experiments.
+As the outlook of the network of researchers that formed through the COST Action CA18108 "Quantum gravity phenomenology in the multi-messenger approach (QG-MM)", in this work we give an overview of the desiderata that future theoretical frameworks, observational facilities, and data-sharing policies should satisfy in order to advance the cause of quantum gravity phenomenology.
+
+## *Black holes in the classical and quantum world*
+
+- Authors: R. Emparan, E. Barakovic, R. Dekhil, **F. Rescic**
+- Journal: Proceedings of Science [PoS 004](https://pos.sissa.it/440/004/)
+- Arxiv: [2306.11139](https://arxiv.org/abs/2306.11139)
+- DOI: [10.22323/1.440.0004](https://doir.org./10.22323/1.440.0004)
+- Year: 2023
+- Abstract: These are the lecture notes for an introductory course on black holes and some aspects of their interaction with the classical and the quantum world. The focus is on phenomena of ''fundamental physics'' in the immediate surroundings of the black hole (classical and quantum fields, with little astrophysics). We aim more at qualitative, intuitive understanding than at quantitative rigor or detail. Accordingly, we only assume previous exposure to a conventional introduction to the elements of General Relativity and a glancing acquaintance with the Schwarzschild solution, but not more. We use many figures for illustrations and provide a set of carefully guided exercises.

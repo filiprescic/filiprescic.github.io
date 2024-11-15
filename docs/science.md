@@ -6,6 +6,8 @@ hide:
 
 ## Publications & preprints
 
+For more details, click [here](papers.md).
+
 - J.M. Carmona, J.L. Cortés, **F. Rescic**, M.A. Reyes, T. Terzić, "*Approaches to photon absorption in a Lorentz inavariance violation scenario*", *Phys.Rev.D* 110 (2024), ArXiv: [2404.07842](https://arxiv.org/abs/2404.07842), DOI: [10.1103/PhysRevD.110.063035](https://doi.org/10.1103/PhysRevD.110.063035)
 
 - A. Batista, ..., **F. Rescic**, et al., "*White Paper and Roadmap for Quantum Gravity Phenomenology in the Multi-Messenger Era*", ArXiv: [2312.00409](https://arxiv.org/abs/2312.00409) (2023)
@@ -26,7 +28,7 @@ hide:
 
 - COST Action CA18108 "*Quantum Gravity Phenomenology in the Multi-Messenger Approach*" ([QGMM](https://qg-mm.unizar.es/))
 
-## Projects
+## Funding
 
 - 16\. 9. 2024. - 31. 12. 2024. Research mobility at the [University of Padova](https://www.unipd.it/en/), [Department of Physics and Astronomy "Galileo Galilei"](https://www.dfa.unipd.it/en/). [Croatian Science Foundation](https://hrzz.hr/en/) project **MOBDOK-2023**
 - 18\. 12. 2023. - 17.12.2027. Collaborator on the [Croatian Science Foundation](https://hrzz.hr/en/) project **HRZZ IP-2022-10-4595** "Very-high-energy Gamma Ray Astronomy in the Multi-messenger Era"
@@ -64,7 +66,7 @@ hide:
 
 - MOBDOK-2023 Research Visit Grant (Croatian Science Foundation, 2024.)
 - Study Completion Scholarship (Ludwig Maximilian University of Munich, 2021.)
-- "Deutschlandstipendium" Scholarship (Federal Republic of Germany, Federal Ministry of Education and research, 2019.)
+- "Deutschlandstipendium" Scholarship (Federal Republic of Germany, Federal Ministry of Education and Research, 2019.)
 - Best Bachelor Thesis Award (University of Rijeka, Department of Physics, 2019.)
 - University Bachelor of Physics with Highest Praise - *Summa Cum Laude* (University of Rijeka, Department of Physics, 2018.)
 - STEM Scholarship (Republic of Croatia, Ministry of Science and Education, 2018.)
