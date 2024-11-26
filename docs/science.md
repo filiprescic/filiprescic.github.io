@@ -49,9 +49,9 @@ For a more detailed overview, click [here](papers.md).
 
 ### Talks
 
-- 26\. 11. 2024. Talk contribution "*Detectability of Lorentz Invariance Violation effects with SWGO*". 2nd HAD Scientific Meeting of the Croatian Astronomical Society, Rijeka, Croatia.
-- 16\. 7. 2024. Regular talk contribution "*Approaches to photon absorption in a Lorentz invariance violation scenario*". Fifth annual conference on quantum gravity phenomenology in the multi-messenger era (QGMM24), Madrid, Spain.
-- 20\. 2. 2023. Regular talk contribution "*Study of Universe Transparency in an LIV Framework*". COST Action CA18108 Third Training School and 59. Winter School of Theoretical Physics "*Gravity - Classical, Quantum and Phenomenology*", Wojanów, Poland.
+- 26\. 11. 2024. Online contribution "*Detectability of Lorentz Invariance Violation effects with SWGO*". 2nd HAD Scientific Meeting of the Croatian Astronomical Society. Rijeka, Croatia.
+- 16\. 7. 2024. Regular talk contribution "*Approaches to photon absorption in a Lorentz invariance violation scenario*". Fifth annual conference on quantum gravity phenomenology in the multi-messenger era (QGMM24). Madrid, Spain.
+- 20\. 2. 2023. Regular talk contribution "*Study of Universe Transparency in an LIV Framework*". COST Action CA18108 Third Training School and 59. Winter School of Theoretical Physics "*Gravity - Classical, Quantum and Phenomenology*". Wojanów, Poland.
 
 ## Participation in schools & conferences
 
