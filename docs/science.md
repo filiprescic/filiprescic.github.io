@@ -6,7 +6,7 @@ hide:
 
 ## Publications & preprints
 
-For more details, click [here](papers.md).
+For a more detailed overview, click [here](papers.md).
 
 - J.M. Carmona, J.L. Cortés, **F. Rescic**, M.A. Reyes, T. Terzić, "*Approaches to photon absorption in a Lorentz inavariance violation scenario*", *Phys.Rev.D* 110 (2024), ArXiv: [2404.07842](https://arxiv.org/abs/2404.07842), DOI: [10.1103/PhysRevD.110.063035](https://doi.org/10.1103/PhysRevD.110.063035)
 
@@ -49,6 +49,7 @@ For more details, click [here](papers.md).
 
 ### Talks
 
+- 26\. 11. 2024. Talk contribution "*Detectability of Lorentz Invariance Violation effects with SWGO*". 2nd HAD Scientific Meeting of the Croatian Astronomical Society, Rijeka, Croatia.
 - 16\. 7. 2024. Regular talk contribution "*Approaches to photon absorption in a Lorentz invariance violation scenario*". Fifth annual conference on quantum gravity phenomenology in the multi-messenger era (QGMM24), Madrid, Spain.
 - 20\. 2. 2023. Regular talk contribution "*Study of Universe Transparency in an LIV Framework*". COST Action CA18108 Third Training School and 59. Winter School of Theoretical Physics "*Gravity - Classical, Quantum and Phenomenology*", Wojanów, Poland.
 
