@@ -33,7 +33,7 @@ Hi! I'm Filip Rescic, a teaching assistant and PhD student at the [Faculty of Ph
 - Lorentz Invariance Violation
 - Doubly Special Relativity
 
-## Contact me
+## Contact
 
 [Faculty of Physics](https://www.phy.uniri.hr/en/), [Univesity of Rijeka](https://uniri.hr/en/home/)
 

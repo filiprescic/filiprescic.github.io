@@ -12,7 +12,7 @@ For a more detailed overview, click [here](papers.md).
 
 - A. Batista, ..., **F. Rescic**, et al., "*White Paper and Roadmap for Quantum Gravity Phenomenology in the Multi-Messenger Era*", ArXiv: [2312.00409](https://arxiv.org/abs/2312.00409) (2023)
 
-- R. Emparan, E. Barakovic, R. Dekhil, **F. Rescic**, "*Black holes in the classical and quantum world*". Proceedings of Science - QG-MM School, [PoS 004](https://pos.sissa.it/440/004/) (2024), Arxiv: [2306.11139](https://arxiv.org/abs/2306.11139), DOI: [10.22323/1.440.0004](https://doir.org./10.22323/1.440.0004)
+- R. Emparan, E. Barakovic, R. Dekhil, **F. Rescic**, "*Black holes in the classical and quantum world*", Proceedings of Science - QG-MM School, [PoS 004](https://pos.sissa.it/440/004/) (2024), Arxiv: [2306.11139](https://arxiv.org/abs/2306.11139), DOI: [10.22323/1.440.0004](https://doir.org./10.22323/1.440.0004)
 
 ## Memberships
 
@@ -66,6 +66,7 @@ For a more detailed overview, click [here](papers.md).
 ## Honours and awards
 
 - MOBDOK-2023 Research Visit Grant (Croatian Science Foundation, 2024.)
+- "Prometej" Grant (University of Rijeka Foundation, 2024.)
 - Study Completion Scholarship (Ludwig Maximilian University of Munich, 2021.)
 - "Deutschlandstipendium" Scholarship (Federal Republic of Germany, Federal Ministry of Education and Research, 2019.)
 - Best Bachelor Thesis Award (University of Rijeka, Department of Physics, 2019.)
