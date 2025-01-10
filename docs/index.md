@@ -52,10 +52,7 @@ e-mail: [filip.rescic@uniri.hr](mailto:filip.rescic@uniri.hr)
 - [Google Scholar](https://scholar.google.com/citations?user=No6TvC4AAAAJ&hl=hr&oi=ao)  -->
 
 ???+ info "Latest updates"
-
-    ???+ info "2025"
-
-        - Erasmus+ Mobility to the Facultad de Ciencias, Universidad de Zaragoza. Period: 13. 1. 2025. - 12. 2. 2025.
+      - Erasmus+ Mobility to the Facultad de Ciencias, Universidad de Zaragoza. Period: 13. 1. 2025. - 12. 2. 2025.
 
     ??? info "2024"
         - Research visit at the Department of Physics and Astronomy "Galileo Galilei" of the University of Padova. The stay was funded by the Croatian Science Foundation Oubound Mobility grant MOBDOK-2023. Period: 16. 9. 2024. - 31. 12. 2024.
