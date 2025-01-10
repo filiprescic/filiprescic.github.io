@@ -65,6 +65,7 @@ For a more detailed overview, click [here](papers.md).
 
 ## Honours and awards
 
+- Erasmus+ Mobility Grant (University of Rijeka, 2023. - 2025.)
 - MOBDOK-2023 Research Visit Grant (Croatian Science Foundation, 2024.)
 - "Prometej" Grant (University of Rijeka Foundation, 2024.)
 - Study Completion Scholarship (Ludwig Maximilian University of Munich, 2021.)
