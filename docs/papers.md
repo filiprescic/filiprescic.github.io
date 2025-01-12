@@ -1,5 +1,5 @@
 ---
-title: "Research papers"
+title: "Publications"
 hide: 
     - toc
     - navigation
