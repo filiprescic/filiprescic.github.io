@@ -12,15 +12,17 @@ hide:
 - DOI: [10.1103/PhysRevD.110.063035](https://doi.org/10.1103/PhysRevD.110.063035)
 - ArXiv: [2404.07842](https://arxiv.org/abs/2404.07842)
 - Year: 2024
-??? Abstract 
+??? Abstract
     Very high-energy astrophysical gamma rays suffer a suppression of their flux along their propagation due to their interaction, through the $\gamma\gamma\to e^+e^−$ pair-production process, with the soft photon backgrounds present in the Universe. We examine the Universe's transparency to gamma rays within a Lorentz Invariance Violation (LIV) framework, focusing on photon subluminal quadratic corrections driven by a high-energy scale. Based on an explicit calculation, we provide a new expression for the cross section that overcomes the limitations of previous approaches and refines existing constraints for the LIV scale, while we introduce a new approximation that may be useful in LIV scenarios beyond effective field theory. These improvements appear essential for setting constraints on LIV effects with future observations at ultra-high energies, where previous approximations may fall short.
 
 ## *White Paper and Roadmap for Quantum Gravity Phenomenology in the Multi-Messenger Era*
 
-- Authors: COST Action CA18108 QGMM
+- Authors: A. Addazi, ..., **F. Rescic**, et al.
+- Journal: *Classical and Quantum Gravity*
+- DOI: [10.1088/1361-6382/ad605a](https://doi.org/10.1088/1361-6382/ad605a)
 - ArXiv: [2312.00409](https://arxiv.org/abs/2312.00409)
-- Year: 2023
-??? Abstract 
+- Year: 2025
+??? Abstract
     The unification of quantum mechanics and general relativity has long been elusive. Only recently have empirical predictions of various possible theories of quantum gravity been put to test. The dawn of multi-messenger high-energy astrophysics has been tremendously beneficial, as it allows us to study particles with much higher energies and travelling much longer distances than possible in terrestrial experiments, but more progress is needed on several fronts.
     A thorough appraisal of current strategies and experimental frameworks, regarding quantum gravity phenomenology, is provided here. Our aim is twofold: a description of tentative multimessenger explorations, plus a focus on future detection experiments.
     As the outlook of the network of researchers that formed through the COST Action CA18108 "Quantum gravity phenomenology in the multi-messenger approach (QG-MM)", in this work we give an overview of the desiderata that future theoretical frameworks, observational facilities, and data-sharing policies should satisfy in order to advance the cause of quantum gravity phenomenology.
