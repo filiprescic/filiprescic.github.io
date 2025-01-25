@@ -25,14 +25,6 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
-# extra:
-#  alternate:
-#    - name: English
-#      site_url: https://filiprescic.github.io
-#      lang: en
-#    - name: Hrvatski
-#      link: /hr/
-#      lang: hr
 plugins: []
 nav: 
   - index.md
