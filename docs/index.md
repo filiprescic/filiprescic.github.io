@@ -35,7 +35,7 @@ hide:
 
     ---
     - Teaching assistant and PhD student at the [Faculty of Physics](https://www.phy.uniri.hr/en/), [University of Rijeka](https://uniri.hr/en/home/)
-    - PhD student at the [Faculty of Science](https://ciencias.unizar.es/intymov-incoming-students), [University of Zaragoza](https://www.unizar.es/information-institution/name-and-address)
+    - PhD student at the [Faculty of Science](https://ciencias.unizar.es/intymov-incoming-students), [University of Zaragoza](https://www.unizar.es/)
     - Master of Science (2022.) [Faculty of Physics](https://www.physik.lmu.de/en/), [Ludwig Maximilian University of Munich](https://www.lmu.de/en/)
   
     Feel free to explore my [publications](papers.md), ongoing [projects](projects.md) and [scientific activities](science.md).
