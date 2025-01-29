@@ -13,7 +13,7 @@ hide:
 
     ??? info "2024"
         - Research visit at the Department of Physics and Astronomy "Galileo Galilei" of the University of Padova. The stay was funded by the Croatian Science Foundation Oubound Mobility grant MOBDOK-2023. Period: 16. 9. 2024. - 31. 12. 2024.
-        - Published research paper in *Physical Review D* titled "*Approaches to photon absorption in a Lorentz inavariance violation scenario*". Find out more about it [here](papers.md). You can read it [here](https://doi.org/10.1103/PhysRevD.110.063035).
+        - Published research paper in *Physical Review D* titled "*Approaches to photon absorption in a Lorentz inavariance violation scenario*". You can read it [here](https://doi.org/10.1103/PhysRevD.110.063035).
         - Erasmus+ Mobility at the Facultad de Ciencias, Universidad de Zaragoza. Period: 2. 9. 2024. - 15. 9. 2024.
         - Participated at the "*Fifth annual conference on quantum gravity phenomenology in the multi-messenger era (QGMM24)*" in Madrid, Spain
         - Participated at the "*MPIK-CDY School on the Future of Gamma-Ray Astronomy*" in Heidelberg, Germany
@@ -36,7 +36,7 @@ hide:
     ---
     - Teaching assistant and PhD student at the [Faculty of Physics](https://www.phy.uniri.hr/en/), [University of Rijeka](https://uniri.hr/en/home/)
     - PhD student at the [Faculty of Science](https://ciencias.unizar.es/intymov-incoming-students), [University of Zaragoza](https://www.unizar.es/)
-    - Master of Science (2022.) [Faculty of Physics](https://www.physik.lmu.de/en/), [Ludwig Maximilian University of Munich](https://www.lmu.de/en/)
+    - Master of Science (2022) [Faculty of Physics](https://www.physik.lmu.de/en/), [Ludwig Maximilian University of Munich](https://www.lmu.de/en/)
   
     Feel free to explore my [publications](papers.md), ongoing [projects](projects.md) and [scientific activities](science.md).
 
