@@ -54,20 +54,20 @@ hide:
 
     e-mail: [filip.rescic@uniri.hr](mailto:filip.rescic@uniri.hr)
 
--   :material-test-tube:{ .lg .middle } __Scientific interests__
+-   :material-account-group:{ .lg .middle } __Memberships__
 
     ---
 
-    - Gamma-ray Astrophysics
-    - Quantum Gravity Phenomenology
-    - Lorentz Invariance Violation
-    - Doubly Special Relativity
+    - Research groups: [Wrinkle](https://wrinkle.uniri.hr/), [QuGraPheno](https://qugraphenozaragoza.wordpress.com/)
+    - Collaborations: [SWGO](https://www.swgo.org/SWGOWiki/doku.php), [BridgeQG](https://web.infn.it/BridgeQG/)
+    - Institutes: [CAPA](https://capa.unizar.es/)
+    - Other: [DMF](http://dmf.hr/), [Penkala](https://udruga-penkala.hr/en/association-penkala-2/)
 
--   :material-link-box:{ .lg .middle } __Useful links__
+<!-- -   :material-link-box:{ .lg .middle } __Useful links__
 
     ---
 
     - [Inspire-HEP](https://inspirehep.net/authors/2698695)
     - [ORCID](https://orcid.org/0000-0002-9664-5414)
-    - [Google Scholar](https://scholar.google.com/citations?user=No6TvC4AAAAJ&hl=hr&oi=ao)
+    - [Google Scholar](https://scholar.google.com/citations?user=No6TvC4AAAAJ&hl=hr&oi=ao) -->
 </div>
