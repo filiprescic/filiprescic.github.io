@@ -38,7 +38,7 @@ hide:
     - PhD student at the [Faculty of Science](https://ciencias.unizar.es/intymov-incoming-students), [University of Zaragoza](https://www.unizar.es/)
     - Master of Science (2022) [Faculty of Physics](https://www.physik.lmu.de/en/), [Ludwig Maximilian University of Munich](https://www.lmu.de/en/)
   
-    Feel free to explore my [publications](papers.md), ongoing [projects](projects.md) and [scientific activities](science.md).
+    <!-- Feel free to explore my [publications](papers.md), ongoing [projects](projects.md) and [scientific activities](science.md). -->
 
 -   :material-contacts:{ .lg .middle } __Contact__
 
@@ -54,6 +54,15 @@ hide:
 
     e-mail: [filip.rescic@uniri.hr](mailto:filip.rescic@uniri.hr)
 
+-   :material-telescope:{ .lg .middle } __Research Interests__
+
+    ---
+
+    - Gamma-ray astrophysics
+    - Quantum Gravity Phenomenology
+    - Lorentz Invariance Violation
+    - Deformed Special Relativity
+
 -   :material-account-group:{ .lg .middle } __Memberships__
 
     ---
@@ -63,11 +72,4 @@ hide:
     - Institutes: [CAPA](https://capa.unizar.es/)
     - Other: [DMF](http://dmf.hr/), [Penkala](https://udruga-penkala.hr/en/association-penkala-2/)
 
-<!-- -   :material-link-box:{ .lg .middle } __Useful links__
-
-    ---
-
-    - [Inspire-HEP](https://inspirehep.net/authors/2698695)
-    - [ORCID](https://orcid.org/0000-0002-9664-5414)
-    - [Google Scholar](https://scholar.google.com/citations?user=No6TvC4AAAAJ&hl=hr&oi=ao) -->
 </div>
