@@ -5,6 +5,7 @@ theme:
     # - navigation.tabs.sticky
     - navigation.sections
     - toc.integrate
+    - navigation.footer
   name: material  
   font:
     text: Roboto 
@@ -16,7 +17,7 @@ theme:
     - media: "(prefers-color-scheme: light)"
       scheme: default
       toggle:
-        icon: material/brightness-7 
+        icon: material/brightness-6 
         name: Switch to dark mode
 
     # Palette toggle for dark mode

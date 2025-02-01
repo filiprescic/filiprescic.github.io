@@ -38,8 +38,8 @@ For a more detailed overview, click [here](papers.md).
 
 ### Supervisors
 
-- Prof. José Manuel Carmona ([Faculty of Science](https://ciencias.unizar.es/intymov-incoming-students), [University of Zaragoza](https://www.unizar.es/information-institution/name-and-address))
-- Assoc. Prof. Tomislav Terzić ([Faculty of Physics](https://www.phy.uniri.hr/en/), [University of Rijeka](https://uniri.hr/en/home/))
+- [Prof. José Manuel Carmona](https://personal.unizar.es/jcarmona/) ([UniZar](https://www.unizar.es/))
+- [Assoc. Prof. Tomislav Terzić](https://wrinkle.uniri.hr/tomislav-terzic/) ([UniRi](https://uniri.hr/en/home/))
 
 ### Progress
 
