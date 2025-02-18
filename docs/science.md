@@ -55,6 +55,7 @@ For a more detailed overview, click [here](papers.md).
 
 ## Participation in schools & conferences
 
+- Searching for Quantum Gravity in the Sky, 2025. Bad Honnef, Germany ([DPG](https://www.dpg-physik.de/veranstaltungen/2025/searching_for_quantum_gravity_in_the_sky))
 - Fifth annual conference on quantum gravity phenomenology in the multi-messenger era (QGMM24), 2024. Madrid, Spain. ([QGMM24](https://teorica.fis.ucm.es/QGMM24/index.html))
 - MPIK-CDY School on the Future of Gamma-Ray Astronomy, 2024. Heidelberg, Germany. ([MPIK-CDY](https://www.mpi-hd.mpg.de/MPIK_CDY_2024/))
 - COST Action CA18108 Fourth Annual Conference, 2023. Rijeka, Croatia. ([Indico](https://indico.capa.unizar.es/event/31/))
