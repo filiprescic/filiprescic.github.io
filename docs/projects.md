@@ -77,6 +77,6 @@ $$
 \frac{dl}{dz} = \frac{1}{(1+z)H_0\sqrt{\Omega_m(1+z)^3+\Omega_\Lambda}}\,,  
 $$
 
-where $\Omega_m$ and $\Omega_\Lambda$ are the matter and cosmological constant relative densities, respectively.
+where $H_0$ is the present value of the Hubble constant, and $\Omega_m$ and $\Omega_\Lambda$ are the matter and cosmological constant relative densities, respectively.
 This framework allows for the study of gamma-ray attenuation in both standard SR and scenarios that go beyond such as LIV or DSR, where modifications to the dispersion relation affect the cross-section and thus the overall opacity function.
 
