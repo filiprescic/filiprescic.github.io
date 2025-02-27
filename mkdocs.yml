@@ -6,6 +6,7 @@ theme:
     - navigation.sections
     - toc.integrate
     - navigation.footer
+    - content.code.copy
   name: material  
   font:
     text: Roboto 
@@ -48,7 +49,13 @@ markdown_extensions:
       generic: true
   - admonition
   - pymdownx.details
-  - pymdownx.superfences    
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets    
 extra_javascript:
   - javascripts/mathjax.js
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
