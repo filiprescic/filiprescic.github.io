@@ -7,6 +7,10 @@ hide:
 
 # Welcome!
 
+> "If you work for a living, why do you kill yourself working?" ~ Tuco (*The Good, the Bad and the Ugly*)
+
+<br>
+
 !!! info "Latest updates"
       - Participated at the school "Searching for Quantum Gravity in the Sky" [:link:](https://www.dpg-physik.de/veranstaltungen/2025/searching_for_quantum_gravity_in_the_sky)
       - Erasmus+ Mobility at the Facultad de Ciencias, Universidad de Zaragoza. Period: 13. 1. 2025. - 12. 2. 2025.
