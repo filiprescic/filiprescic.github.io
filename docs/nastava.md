@@ -1,10 +1,8 @@
 ---
+title: "Nastavne aktivnosti"
 hide:
     - toc
-    - navigation
 ---    
-
-# Nastavne aktivnosti  
 
 [Fakultet za fiziku](https://www.phy.uniri.hr/), [Sveučilište u Rijeci](https://uniri.hr/) studijski programi:  
 

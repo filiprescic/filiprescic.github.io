@@ -50,7 +50,7 @@ Collaborators: [José Manuel Carmona](https://personal.unizar.es/jcarmona/) (Uni
 
 ### Gamma-ray Attenuation and Opacity  
 
-The observed flux of gamma rays on Earth, $\frac{d\Phi}{dE}$, is related to the intrinsic flux at the source, $\frac{dN_{\text{int}}}{dE_e}$, through the attenuation factor $\text{P}_{\gamma\gamma}$:  
+The observed flux of gamma rays on Earth, $\frac{d\Phi}{dE}$, is related to the intrinsic flux at the source, $\frac{dN_{\text{int}}}{dE_e}$, through the attenuation factor $\text{P}_{\gamma\gamma}$  
 
 $$ 
 \frac{dN}{dE} = \frac{dN_{\text{int}}}{dE_e} \times \text{P}_{\gamma\gamma}(E, z_s)\,,  
