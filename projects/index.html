@@ -542,7 +542,7 @@
 </div>
 <h3 id="gamma-ray-attenuation-and-opacity">Gamma-ray Attenuation and Opacity</h3>
 <p>The observed flux of gamma rays on Earth, <span class="arithmatex">\(\frac{d\Phi}{dE}\)</span>, is related to the intrinsic flux at the source, <span class="arithmatex">\(\frac{dN_{\text{int}}}{dE_e}\)</span>, through the attenuation factor <span class="arithmatex">\(\text{P}_{\gamma\gamma}\)</span>  </p>
-<div class="arithmatex">\[ 
+<div class="arithmatex">\[
 \frac{dN}{dE} = \frac{dN_{\text{int}}}{dE_e} \times \text{P}_{\gamma\gamma}(E, z_s)\,,  
 \]</div>
 <p>where <span class="arithmatex">\(E_e = E(1+z_s)\)</span> is the emitted gamma-ray energy at redshift <span class="arithmatex">\(z_s\)</span>.  </p>
@@ -552,10 +552,10 @@
 \]</div>
 <p>The opacity <span class="arithmatex">\(\tau(E, z_s)\)</span> encapsulates the probability of gamma-ray absorption along its path to Earth and is computed by integrating over the relevant physical parameters:  </p>
 <div class="arithmatex">\[
-\tau(E,z_s) = \int_{0}^{z_s} dz \, \frac{dl}{dz} \int_{-1}^{1} d\cos\theta \left(\frac{1-\cos\theta}{2}\right) \times \int_{\varepsilon_\text{thr}(E,\theta)}^\infty d\varepsilon \; n(\varepsilon,z) \,\sigma(E(1+z),\varepsilon,\theta) \,.     
+\tau(E,z_s) = \int_{0}^{z_s} dz \, \frac{dl}{dz} \int_{-1}^{1} d\cos\theta \left(\frac{1-\cos\theta}{2}\right) \times \int_{\varepsilon_\text{thr}(E,\theta)}^\infty d\varepsilon \; n(\varepsilon,z) \,\sigma(E(1+z),\varepsilon,\theta) \,.
 \]</div>
 <p>Here, <span class="arithmatex">\(\varepsilon_{\text{thr}}(E, \theta)\)</span> is the minimum background photon energy required to satisfy the threshold condition. The function <span class="arithmatex">\(n(\varepsilon, z)\)</span> represents the spectral density of the background photons, while <span class="arithmatex">\(\sigma(E(1+z), \varepsilon, \theta)\)</span> is the pair-production cross-section. The term <span class="arithmatex">\(dl/dz\)</span> describes the cosmological scaling of the photon’s propagation path and, within the <span class="arithmatex">\( \Lambda \)</span>CDM model, is given by</p>
-<div class="arithmatex">\[ 
+<div class="arithmatex">\[
 \frac{dl}{dz} = \frac{1}{(1+z)H_0\sqrt{\Omega_m(1+z)^3+\Omega_\Lambda}}\,,  
 \]</div>
 <p>where <span class="arithmatex">\(H_0\)</span> is the present value of the Hubble constant, and <span class="arithmatex">\(\Omega_m\)</span> and <span class="arithmatex">\(\Omega_\Lambda\)</span> are the matter and cosmological constant relative densities, respectively.
