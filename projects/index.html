@@ -434,6 +434,15 @@
   
 </li>
         
+          <li class="md-nav__item">
+  <a href="#pipeline-development" class="md-nav__link">
+    <span class="md-ellipsis">
+      Pipeline development
+    </span>
+  </a>
+  
+</li>
+        
       </ul>
     </nav>
   
@@ -512,6 +521,15 @@
 </span></code></pre></div>
 <p>Modify the <code>|release|</code> placeholder in the code to match the desired <a href="https://docs.gammapy.org/dev/release-notes/index.html">Gammapy release</a>.</p>
 <p>Finally, in <a href="https://code.visualstudio.com/">VSCode</a>, press <code>Ctrl+Shift+P</code>, search for <code>"Python: Select Interpreter"</code>, and choose Gammapy as the interpreter.  </p>
+<h3 id="pipeline-development">Pipeline development</h3>
+<pre class="mermaid"><code>graph TD
+    A(Find suitable sources) --&gt;B(Import the SWGO IRFs)
+    B --&gt; C(Simulate datasets)
+    C --&gt; |Apply LIV attenuation|D(Fit the spectra)
+    D --&gt; F(Compare to the SR scenario)
+    F --&gt; |Add the sensitivty|E[Is the source useful for LIV studies?]
+    E --&gt; |Yes|G(Estimate new constraints and/or detection capabilities)
+    E --&gt; |No| A</code></pre>
 <h2 id="theoretical-studies-of-liv-and-dsr">Theoretical studies of LIV and DSR</h2>
 <p>Collaborators: <a href="https://personal.unizar.es/jcarmona/">José Manuel Carmona</a> (UniZar), Jose Luis Cortés (UniZar), Maykoll Reyes (UniZar)</p>
 <div class="admonition abstract">
