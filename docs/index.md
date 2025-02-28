@@ -1,5 +1,5 @@
 ---
-title: "Home page"
+title: "Home"
 hide: 
     - title
     - navigation
@@ -11,7 +11,7 @@ hide:
 
 <br>
 
-!!! info "Latest updates"
+!!! info "Latest news"
       - Participated at the school "Searching for Quantum Gravity in the Sky" [:link:](https://www.dpg-physik.de/veranstaltungen/2025/searching_for_quantum_gravity_in_the_sky)
       - Erasmus+ Mobility at the Facultad de Ciencias, Universidad de Zaragoza. Period: 13. 1. 2025. - 12. 2. 2025.
       - COST Action CA18108 "*White Paper and Roadmap for Quantum Gravity Phenomenology in the Multi-Messenger Era*" published in *Classical and Quantum Gravity*. You can find it [here](https://doi.org/10.1088/1361-6382/ad605a).

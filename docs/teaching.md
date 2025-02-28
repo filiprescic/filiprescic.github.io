@@ -6,7 +6,7 @@ hide:
 # Teaching activities
 
 !!! info
-    Up to date page with resources available [in Croatian](nastava.md) :hr:
+    Up to date page with resources available [in Croatian](nastava.md).
 
 [Faculty of Physics](https://www.phy.uniri.hr/en/), [University of Rijeka](https://uniri.hr/en/home/) study programmes:
 

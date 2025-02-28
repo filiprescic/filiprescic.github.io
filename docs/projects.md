@@ -44,10 +44,10 @@ graph TD
     A(Find suitable sources) -->B(Import the SWGO IRFs)
     B --> C(Simulate datasets)
     C --> |Apply LIV attenuation|D(Fit the spectra)
-    D --> F(Compare to the SR scenario)
-    F --> |Add the sensitivty|E[Is the source useful for LIV studies?]
+    D --> F(Add instrument sensitivity)
+    F --> |Compare to SR scenario|E[Can the source be used for LIV studies?]
+    E --> |No|A
     E --> |Yes|G(Estimate new constraints and/or detection capabilities)
-    E --> |No| A
 ```
 
 ## Theoretical studies of LIV and DSR
