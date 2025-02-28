@@ -2,7 +2,9 @@
 title: "Teaching"
 hide:
     - toc
+    - navigation
 ---
+
 # Teaching activities
 
 !!! info
