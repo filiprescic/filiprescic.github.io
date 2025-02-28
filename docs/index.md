@@ -30,9 +30,9 @@ hide:
 <div class="grid cards" markdown>
 
 - <figure markdown="" style="float: center;">
-  <img src="images/photo_2.jpg" alt="Image title" width="300">
+  <img src="images/photo_2.jpg" alt="Image title" width="280">
     <figcaption style="font-size: 0.7em; font-style: italic; text-align: center;">
-    <a href="https://udruga-penkala.hr/mutimir-2024/">Mutimir</a> conference, Association <a href="https://udruga-penkala.hr/en/association-penkala-2/">Penkala</a>, 2024.
+    <!-- <a href="https://udruga-penkala.hr/mutimir-2024/">Mutimir</a> conference, Association <a href="https://udruga-penkala.hr/en/association-penkala-2/">Penkala</a>, 2024. -->
   </figcaption> 
 </figure>
 
@@ -72,8 +72,8 @@ hide:
 
     ---
 
-    - Research groups: [Wrinkle](https://wrinkle.uniri.hr/), [QuGraPheno](https://qugraphenozaragoza.wordpress.com/)
     - Collaborations: [SWGO](https://www.swgo.org/SWGOWiki/doku.php), [BridgeQG](https://web.infn.it/BridgeQG/)
+    - Research groups: [Wrinkle](https://wrinkle.uniri.hr/), [QuGraPheno](https://qugraphenozaragoza.wordpress.com/)
     - Institutes: [CAPA](https://capa.unizar.es/)
     - Other: [DMF](http://dmf.hr/), [Penkala](https://udruga-penkala.hr/en/association-penkala-2/)
 

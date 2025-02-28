@@ -37,6 +37,19 @@ Modify the `|release|` placeholder in the code to match the desired [Gammapy rel
 Finally, in [VSCode](https://code.visualstudio.com/), press `Ctrl+Shift+P`, search for `"Python: Select Interpreter"`, and choose Gammapy as the interpreter.  
 
 
+### Pipeline development
+
+```mermaid
+graph TD
+    A(Find suitable sources) -->B(Import the SWGO IRFs)
+    B --> C(Simulate datasets)
+    C --> |Apply LIV attenuation|D(Fit the spectra)
+    D --> F(Compare to the SR scenario)
+    F --> |Add the sensitivty|E[Is the source useful for LIV studies?]
+    E --> |Yes|G(Estimate new constraints and/or detection capabilities)
+    E --> |No| A
+```
+
 ## Theoretical studies of LIV and DSR
 
 Collaborators: [José Manuel Carmona](https://personal.unizar.es/jcarmona/) (UniZar), Jose Luis Cortés (UniZar), Maykoll Reyes (UniZar)
