@@ -2,7 +2,6 @@
 title: "Projects"
 hide:
     - toc
-    -
 ---
 
 ## SWGO sensitivity to LIV
@@ -51,7 +50,7 @@ Collaborators: [José Manuel Carmona](https://personal.unizar.es/jcarmona/) (Uni
 
 ### Gamma-ray Attenuation and Opacity  
 
-The observed flux of gamma rays on Earth, $frac{d\Phi}{dE}$, is related to the intrinsic flux at the source, $\frac{dN_{\text{int}}}{dE_e}$, through the attenuation factor $\text{P}_{\gamma\gamma}$:  
+The observed flux of gamma rays on Earth, $\frac{d\Phi}{dE}$, is related to the intrinsic flux at the source, $\frac{dN_{\text{int}}}{dE_e}$, through the attenuation factor $\text{P}_{\gamma\gamma}$:  
 
 $$ 
 \frac{dN}{dE} = \frac{dN_{\text{int}}}{dE_e} \times \text{P}_{\gamma\gamma}(E, z_s)\,,  
@@ -59,7 +58,7 @@ $$
 
 where $E_e = E(1+z_s)$ is the emitted gamma-ray energy at redshift $z_s$.  
 
-The attenuation factor $$\text{P}_{\gamma\gamma}(E, z_s)$$ quantifies the suppression of the gamma-ray flux due to interactions with the background photon fields. It is related to the optical depth $\tau(E, z_s)$ by  
+The attenuation factor $\text{P}_{\gamma\gamma}(E, z_s)$ quantifies the suppression of the gamma-ray flux due to interactions with the background photon fields. It is related to the optical depth $\tau(E, z_s)$ by  
 
 $$
 \text{P}_{\gamma\gamma}(E, z_s) = \exp(-\tau(E, z_s))\,.  

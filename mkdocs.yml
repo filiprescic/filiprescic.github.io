@@ -1,13 +1,15 @@
 site_name: Filip Rescic - personal page
 theme: 
+  name: material  
   features:
     - navigation.tabs
-    # - navigation.tabs.sticky
+    #- navigation.tabs.sticky
+    #- navigation.top
     - navigation.sections
+    #- navigation.tracking
     - toc.integrate
     - navigation.footer
     - content.code.copy
-  name: material  
   font:
     text: Roboto 
   custom_dir: overrides
@@ -65,4 +67,3 @@ extra:
       link: https://orcid.org/0000-0002-9664-5414
     - icon: custom/inspire
       link: https://inspirehep.net/authors/2698695
-  
