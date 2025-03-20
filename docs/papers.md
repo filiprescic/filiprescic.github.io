@@ -5,6 +5,14 @@ hide:
     - navigation
 ---
 
+## *Photon Absorption in a Doubly Special Relativity Model with Undeformed Free Propagation and Total Momentum Conservation*
+
+- Authors: J.M. Carmona, J.L. Cortés, **F. Rescic**, M.A. Reyes, T. Terzić
+- ArXiv: [2503.15203](https://arxiv.org/abs/2503.15203)
+- Year: 2025
+!!! Abstract
+    The lack of a dynamical framework within doubly special relativity theories has impeded the development of a corresponding phenomenology of modified interactions. In this work we show that in a model based on the classical basis of $\kappa$-Poincaré and total momentum conservation, one has a well-defined cross section of the photon-photon annihilation process, once a prescription for the channel treatment is set. The modification of the interaction can lead to observable effects in the opacity of the Universe to very high-energy gamma rays when the gamma-ray energy approaches the energy scale of the deformation. The magnitude and observability of this deformation are examined as functions of the gamma-ray energy and source distance.
+
 ## *White Paper and Roadmap for Quantum Gravity Phenomenology in the Multi-Messenger Era*
 
 - Authors: R. Alves Batista, ..., **F. Rescic**, et al.
@@ -19,7 +27,7 @@ hide:
 
 ## *Approaches to photon absorption in a Lorentz inavariance violation scenario*
 
-- Authors: J.M. Carmona, J.L. Cortés, **F. Rescic**, M.A. Reyes, T. Terzić
+- Authors: J.M. Carmona, J.L. Cortés, **F. Rescic**, M.A. Reyes, T. Terzić, F.I. Vrban
 - Journal: *Physical Review D*
 - DOI: [10.1103/PhysRevD.110.063035](https://doi.org/10.1103/PhysRevD.110.063035)
 - ArXiv: [2404.07842](https://arxiv.org/abs/2404.07842)
