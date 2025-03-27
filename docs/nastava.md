@@ -11,7 +11,7 @@ hide:
 
 Raspored sati za ljetni semestar 2024./2025. možete pronaći [ovdje](https://www.phy.uniri.hr/hr/nastava/raspored-sati.html).
 
-# Trenutno (2022./2023. - danas)  
+# Trenutno (2022./2023. - danas)
 
 ## Preddiplomski studij  
 
@@ -25,7 +25,7 @@ Nositelj: izv. prof. [Robert Peter](https://portal.uniri.hr/Portfelj/Details/827
 
 #### Literatura :books:
 
-Predavanja: 
+Predavanja:
 
 - Young H.D., Freedman R.A., UNIVERSITY PHYSICS, 9th ed., Addison-Wesley Publishing Company, Inc, 1996.
 - Halliday D., Resnick R., Walker J., FUNDAMENTALS OF PHYSICS , 6th ed., J.Wiley and Sons Inc., New York , 2003.

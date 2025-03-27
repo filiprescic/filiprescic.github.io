@@ -7,17 +7,13 @@ hide:
 
 # Welcome!
 
-<<<<<<< HEAD
-!!! info "Latest updates"
-      - New preprint *Photon Absorption in a Doubly Special Relativity Model with Undeformed Free Propagation and Total Momentum Conservation* available on [ArXiv](https://arxiv.org/abs/2503.15203).
-=======
 > "If you work for a living, why do you kill yourself working?" ~ Tuco (*The Good, the Bad and the Ugly*)
 
 <br>
 
 !!! info "Latest news"
-      - New preprint *Photon Absorption in a Doubly Special Relativity Model with Undeformed Free Propagation and Total Momentum Conservation* available on [ArXiv](https://arxiv.org/abs/2503.15203).  
->>>>>>> 0dc6a6e7b52de0fa8b5badc03ed2f1134209a963
+      - Presented the research group [Wrinkle](https://wrinkle.uniri.hr/) on the [BridgeQG](https://www.cost.eu/actions/CA23130/) COST Action WG2 meeting. You can find the presentation [here](files/bridgeqg_wrinkle.pdf).  
+      - New preprint available on [ArXiv](https://arxiv.org/abs/2503.15203).  
       - Participated at the school "Searching for Quantum Gravity in the Sky" [:link:](https://www.dpg-physik.de/veranstaltungen/2025/searching_for_quantum_gravity_in_the_sky)
       - Erasmus+ Mobility at the Facultad de Ciencias, Universidad de Zaragoza. Period: 13. 1. 2025. - 12. 2. 2025.
       - COST Action CA18108 "*White Paper and Roadmap for Quantum Gravity Phenomenology in the Multi-Messenger Era*" published in *Classical and Quantum Gravity*. You can find it [here](https://doi.org/10.1088/1361-6382/ad605a).
