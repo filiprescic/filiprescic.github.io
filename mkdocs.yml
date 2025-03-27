@@ -1,12 +1,15 @@
 site_name: Filip Rescic - personal page
 theme: 
+  name: material  
   features:
     - navigation.tabs
-    # - navigation.tabs.sticky
+    #- navigation.tabs.sticky
+    #- navigation.top
     - navigation.sections
+    #- navigation.tracking
     - toc.integrate
     - navigation.footer
-  name: material  
+    - content.code.copy
   font:
     text: Roboto 
   custom_dir: overrides
@@ -33,6 +36,8 @@ nav:
   - teaching.md
   - papers.md
   - projects.md
+not_in_nav: |
+  /nastava.md
 markdown_extensions:
   - attr_list
   - md_in_html
@@ -48,7 +53,18 @@ markdown_extensions:
       generic: true
   - admonition
   - pymdownx.details
-  - pymdownx.superfences    
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format    
 extra_javascript:
   - javascripts/mathjax.js
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
@@ -58,4 +74,3 @@ extra:
       link: https://orcid.org/0000-0002-9664-5414
     - icon: custom/inspire
       link: https://inspirehep.net/authors/2698695
-  

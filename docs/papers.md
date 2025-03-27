@@ -7,7 +7,11 @@ hide:
 
 ## *Photon Absorption in a Doubly Special Relativity Model with Undeformed Free Propagation and Total Momentum Conservation*
 
+<<<<<<< HEAD
 - Authors: J.M. Carmona, J.L. Cortés, **F. Rescic**, M.A. Reyes, T. Terzić
+=======
+- Authors: J.M. Carmona, J.L. Cortés, F. Rescic, M.A. Reyes, T. Terzić
+>>>>>>> 0dc6a6e7b52de0fa8b5badc03ed2f1134209a963
 - ArXiv: [2503.15203](https://arxiv.org/abs/2503.15203)
 - Year: 2025
 !!! Abstract

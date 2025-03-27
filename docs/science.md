@@ -1,10 +1,11 @@
 ---
+title: "Science"
 hide:
     - toc
 ---
 # Scientific activities
 
-## Publications & preprints
+## Publications
 
 For a more detailed overview, click [here](papers.md).
 

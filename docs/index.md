@@ -1,5 +1,5 @@
 ---
-title: "Home page"
+title: "Home"
 hide: 
     - title
     - navigation
@@ -7,8 +7,17 @@ hide:
 
 # Welcome!
 
+<<<<<<< HEAD
 !!! info "Latest updates"
       - New preprint *Photon Absorption in a Doubly Special Relativity Model with Undeformed Free Propagation and Total Momentum Conservation* available on [ArXiv](https://arxiv.org/abs/2503.15203).
+=======
+> "If you work for a living, why do you kill yourself working?" ~ Tuco (*The Good, the Bad and the Ugly*)
+
+<br>
+
+!!! info "Latest news"
+      - New preprint *Photon Absorption in a Doubly Special Relativity Model with Undeformed Free Propagation and Total Momentum Conservation* available on [ArXiv](https://arxiv.org/abs/2503.15203).  
+>>>>>>> 0dc6a6e7b52de0fa8b5badc03ed2f1134209a963
       - Participated at the school "Searching for Quantum Gravity in the Sky" [:link:](https://www.dpg-physik.de/veranstaltungen/2025/searching_for_quantum_gravity_in_the_sky)
       - Erasmus+ Mobility at the Facultad de Ciencias, Universidad de Zaragoza. Period: 13. 1. 2025. - 12. 2. 2025.
       - COST Action CA18108 "*White Paper and Roadmap for Quantum Gravity Phenomenology in the Multi-Messenger Era*" published in *Classical and Quantum Gravity*. You can find it [here](https://doi.org/10.1088/1361-6382/ad605a).
@@ -27,9 +36,9 @@ hide:
 <div class="grid cards" markdown>
 
 - <figure markdown="" style="float: center;">
-  <img src="images/photo_2.jpg" alt="Image title" width="300">
+  <img src="images/photo_2.jpg" alt="Image title" width="280">
     <figcaption style="font-size: 0.7em; font-style: italic; text-align: center;">
-    <a href="https://udruga-penkala.hr/mutimir-2024/">Mutimir</a> conference, Association <a href="https://udruga-penkala.hr/en/association-penkala-2/">Penkala</a>, 2024.
+    <!-- <a href="https://udruga-penkala.hr/mutimir-2024/">Mutimir</a> conference, Association <a href="https://udruga-penkala.hr/en/association-penkala-2/">Penkala</a>, 2024. -->
   </figcaption> 
 </figure>
 
@@ -69,8 +78,8 @@ hide:
 
     ---
 
-    - Research groups: [Wrinkle](https://wrinkle.uniri.hr/), [QuGraPheno](https://qugraphenozaragoza.wordpress.com/)
     - Collaborations: [SWGO](https://www.swgo.org/SWGOWiki/doku.php), [BridgeQG](https://web.infn.it/BridgeQG/)
+    - Research groups: [Wrinkle](https://wrinkle.uniri.hr/), [QuGraPheno](https://qugraphenozaragoza.wordpress.com/)
     - Institutes: [CAPA](https://capa.unizar.es/)
     - Other: [DMF](http://dmf.hr/), [Penkala](https://udruga-penkala.hr/en/association-penkala-2/)
 
