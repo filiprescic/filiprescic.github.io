@@ -7,7 +7,9 @@ hide:
 
 # Welcome!
 
-> "If you work for a living, why do you kill yourself working?" ~ Tuco (*The Good, the Bad and the Ugly*)
+> "If you work for a living, why do you kill yourself working?"
+>
+> ~ Tuco (*The Good, the Bad and the Ugly*)
 
 <br>
 
