@@ -1,3 +1,0 @@
-mkdocs[i18n]
-mkdocs-material[imaging]
-Jinja2>=2.11.1
