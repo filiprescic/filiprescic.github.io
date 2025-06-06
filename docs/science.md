@@ -9,9 +9,13 @@ hide:
 
 For a more detailed overview, click [here](papers.md).
 
+- SWGO Collaboration, "*Science Prospects for the Southern Wide-field Gamma-ray Observatory: SWGO*", ArXiv: [2506.01786](https://arxiv.org/abs/2506.01786), (2025)
+
+- J.M. Carmona, J.L. Cortés, **F. Rescic**, M.A. Reyes, T. Terzić, "*Photon Absorption in a Doubly Special Relativity Model with Undeformed Free Propagation and Total Momentum Conservation*", ArXiv: [2503.15203](https://arxiv.org/abs/2503.15203), (2025)
+
 - A. Batista, ..., **F. Rescic**, et al., "*White Paper and Roadmap for Quantum Gravity Phenomenology in the Multi-Messenger Era*", *Classical and Quantum Gravity* (2025), ArXiv: [2312.00409](https://arxiv.org/abs/2312.00409), DOI: [10.1088/1361-6382/ad605a](https://doi.org/10.1088/1361-6382/ad605a)
 
-- J.M. Carmona, J.L. Cortés, **F. Rescic**, M.A. Reyes, T. Terzić, "*Approaches to photon absorption in a Lorentz inavariance violation scenario*", *Phys.Rev.D* 110 (2024), ArXiv: [2404.07842](https://arxiv.org/abs/2404.07842), DOI: [10.1103/PhysRevD.110.063035](https://doi.org/10.1103/PhysRevD.110.063035)
+- J.M. Carmona, J.L. Cortés, **F. Rescic**, M.A. Reyes, T. Terzić, F. I. Vrban, "*Approaches to photon absorption in a Lorentz inavariance violation scenario*", *Phys.Rev.D* 110 (2024), ArXiv: [2404.07842](https://arxiv.org/abs/2404.07842), DOI: [10.1103/PhysRevD.110.063035](https://doi.org/10.1103/PhysRevD.110.063035)
 
 - R. Emparan, E. Barakovic, R. Dekhil, **F. Rescic**, "*Black holes in the classical and quantum world*", Proceedings of Science - QG-MM School, [PoS 004](https://pos.sissa.it/440/004/) (2024), Arxiv: [2306.11139](https://arxiv.org/abs/2306.11139), DOI: [10.22323/1.440.0004](https://doir.org./10.22323/1.440.0004)
 
