@@ -11,9 +11,8 @@ hide:
 >
 > ~ Tuco (*The Good, the Bad and the Ugly*)
 
-<br>
-
 !!! info "Latest news"
+      - *The Southern Wide-field Gamma-ray Observatory* (SWGO) White Paper now available on [ArXiv](https://arxiv.org/abs/2506.01786).  
       - Presented the research group [Wrinkle](https://wrinkle.uniri.hr/) on the [BridgeQG](https://www.cost.eu/actions/CA23130/) COST Action WG2 meeting. You can find the presentation [here](files/bridgeqg_wrinkle.pdf).  
       - New preprint available on [ArXiv](https://arxiv.org/abs/2503.15203).  
       - Participated at the school "Searching for Quantum Gravity in the Sky" [:link:](https://www.dpg-physik.de/veranstaltungen/2025/searching_for_quantum_gravity_in_the_sky)

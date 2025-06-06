@@ -5,6 +5,15 @@ hide:
     - navigation
 ---
 
+## *Science Prospects for the Southern Wide-field Gamma-ray Observatory: SWGO*
+
+- Authors: SWGO Collaboration
+- ArXiv: [2506.01786](https://arxiv.org/abs/2506.01786)
+- Year: 2025
+!!! Abstract
+    Ground-based gamma-ray astronomy is now well established as a key observational approach to address critical topics at the frontiers of astroparticle physics and high-energy astrophysics. Whilst the field of TeV astronomy was once dominated by arrays of atmospheric Cherenkov Telescopes, ground-level particle detection has now been demonstrated to be an equally viable and strongly complementary approach. Ground-level particle detection provides continuous monitoring of the overhead sky, critical for the mapping of extended structures and capturing transient phenomena. As demonstrated by HAWC and LHAASO, the technique provides the best available sensitivity above a few tens of TeV, and for the first time access to the PeV energy range. Despite the success of this approach, there is so far no major ground-level particle-based observatory with access to the Southern sky. HESS, located in Namibia, is the only major gamma-ray instrument in the Southern Hemisphere, and has shown the extraordinary richness of the inner galaxy in the TeV band, but is limited in terms of field of view and energy reach.
+    SWGO is an international effort to construct the first wide-field instrument in the south with deep sensitivity from 100s of GeV into the PeV domain. The project is now close to the end of its development phase and planning for construction of the array in Chile has begun. Here we describe the baseline design, expected sensitivity and resolution, and describe in detail the main scientific topics that will be addressed by this new facility and its initial phase SWGO-A. We show that SWGO will have a transformational impact on a wide range of topics from cosmic-ray acceleration and transport to the nature of dark matter. SWGO represents a key piece of infrastructure for multi-messenger astronomy in the next decade, with strong scientific synergies with the nearby CTA Observatory.
+
 ## *Photon Absorption in a Doubly Special Relativity Model with Undeformed Free Propagation and Total Momentum Conservation*
 
 - Authors: J.M. Carmona, J.L. Cortés, **F. Rescic**, M.A. Reyes, T. Terzić
