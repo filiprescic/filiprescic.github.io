@@ -83,5 +83,6 @@ For a more detailed overview, click [here](papers.md).
 
 ## Public talks
 
+- 11\. 6. 2025. Croatian Science Foundation PhD Café: "*Možemo li izmjeriti kvantnu gravitaciju?*" (eng. "*Can we measure quantum gravity?*"). Rijeka, Croatia.
 - 24\. 5. 2023. Pint of Science: "*O kvantnoj gravitaciji*" (eng. "*About quantum gravity*"). Rijeka, Croatia
 - 23\. 6. 2022. Popularization talk: "*Bariogeneza - priča o nastanku čestica*" (eng. "*Baryogenesis - the story of the origin of particles*"). Rijeka, Croatia.
