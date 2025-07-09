@@ -11,6 +11,9 @@ Collaborators: [Michele Doro](https://userswww.pd.infn.it/~mdoro/index.html) (Un
 !!! abstract "Summary"
     This research focuses on assessing how the Southern Wide-Field Gamma-ray Observatory (SWGO) could detect effects of Lorentz Invariance Violation (LIV) within the quadratic subluminal scenario in very high and ultra-high energy gamma rays. Intrinsic spectral energy distributions of astrophysical sources are modeled, and then attenuated using both special relativistic and LIV-modified survival probabilities. These two attenuation models are compared with SWGO’s projected sensitivity in the relevant energy ranges to explore SWGO’s potential to identify or limit possible LIV effects.
 
+!!! Success
+    Presented our work in the talk "*Assessing SWGO Sensitivity to Lorentz Invariance Violation through Transparency Studies*" at the 1st Annual [BridgeQG Conference](https://indico.in2p3.fr/event/34939/overview)
+
 ### Gammapy installation
 
 The analysis is primarily conducted using the Python package [Gammapy](https://docs.gammapy.org/dev/index.html). One of the recommended installation methods is via [Miniconda](https://docs.anaconda.com/miniconda/). To install Miniconda, run the following command(s) in the terminal:
