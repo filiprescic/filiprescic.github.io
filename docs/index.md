@@ -12,7 +12,7 @@ hide:
 > ~ Tuco (*The Good, the Bad and the Ugly*)
 
 !!! info "Latest news"
-      - Participated and gave a talk at the 1st Annual [BridgeQG Conference](https://indico.in2p3.fr/event/34939/overview)
+      - Participated and gave a talk at the 1st Annual [BridgeQG Conference](https://indico.in2p3.fr/event/34939/overview).
       - Participated at the Croatian Science Foundation [PhD Café](https://hrzz.hr/odrzan-rijeka-phd-cafe-6/).
       - *The Southern Wide-field Gamma-ray Observatory* (SWGO) White Paper now available on [ArXiv](https://arxiv.org/abs/2506.01786).  
       - Presented the research group [Wrinkle](https://wrinkle.uniri.hr/) on the [BridgeQG](https://www.cost.eu/actions/CA23130/) COST Action WG2 meeting. You can find the presentation [here](files/bridgeqg_wrinkle.pdf).  

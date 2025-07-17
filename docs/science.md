@@ -54,12 +54,14 @@ For a more detailed overview, click [here](papers.md).
 
 ### Talks
 
+- 8\. 7. 2025. Regular talk contribution "*Assessing SWGO Sensitivity to Lorentz Invariance Violation through Transparency Studies*". Bridging high and low energies in search of quantum gravity - 2025 Cost Action CA23130 First Annual Conference. Paris, France.
 - 26\. 11. 2024. Online contribution "*Detectability of Lorentz Invariance Violation effects with SWGO*". 2nd HAD Scientific Meeting of the Croatian Astronomical Society. Rijeka, Croatia.
 - 16\. 7. 2024. Regular talk contribution "*Approaches to photon absorption in a Lorentz invariance violation scenario*". Fifth annual conference on quantum gravity phenomenology in the multi-messenger era (QGMM24). Madrid, Spain.
 - 20\. 2. 2023. Regular talk contribution "*Study of Universe Transparency in an LIV Framework*". COST Action CA18108 Third Training School and 59. Winter School of Theoretical Physics "*Gravity - Classical, Quantum and Phenomenology*". Wojanów, Poland.
 
 ## Participation in schools & conferences
 
+- Bridging high and low energies in search of quantum gravity - 2025 Cost Action CA23130 First Annual Conference. Paris, France. ([BridgeQG](https://indico.in2p3.fr/event/34939/overview))
 - Searching for Quantum Gravity in the Sky, 2025. Bad Honnef, Germany. ([DPG](https://www.dpg-physik.de/veranstaltungen/2025/searching_for_quantum_gravity_in_the_sky))
 - Fifth annual conference on quantum gravity phenomenology in the multi-messenger era (QGMM24), 2024. Madrid, Spain. ([QGMM24](https://teorica.fis.ucm.es/QGMM24/index.html))
 - MPIK-CDY School on the Future of Gamma-Ray Astronomy, 2024. Heidelberg, Germany. ([MPIK-CDY](https://www.mpi-hd.mpg.de/MPIK_CDY_2024/))
