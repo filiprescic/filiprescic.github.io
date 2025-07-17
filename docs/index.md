@@ -62,7 +62,7 @@ hide:
 
     phone: +385 (0)51 584 629
 
-    e-mail: [filip.rescic@uniri.hr](mailto:filip.rescic@uniri.hr)
+    e-mail: [filip.rescic.at.uniri.hr](mailto:filip.rescic@uniri.hr)
 
 -   :material-telescope:{ .lg .middle } __Research Interests__
 
@@ -71,7 +71,7 @@ hide:
     - Gamma-ray Astrophysics
     - Quantum Gravity Phenomenology
     - Lorentz Invariance Violation
-    - Deformed Special Relativity
+    - Doubly Special Relativity
 
 -   :material-account-group:{ .lg .middle } __Memberships__
 
