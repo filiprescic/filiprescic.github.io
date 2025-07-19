@@ -5,7 +5,7 @@ hide:
 
 # Portfolio
 
-RoR: **+8%**
+[RoR](https://www.investopedia.com/terms/r/rateofreturn.asp): **+8%**
 
 For more info regarding past performances, study the tickers using [TradingView](https://www.tradingview.com/)'s [screener](https://www.tradingview.com/screener/).
 
@@ -20,7 +20,8 @@ For more info regarding past performances, study the tickers using [TradingView]
     position: relative;
     box-sizing: content-box;
     height: 60vh;
-    width: 50%;
+    width: 100%;
+    overflow: hidden; /* hides scrollbars */
   "
 >
   <iframe
@@ -30,6 +31,7 @@ For more info regarding past performances, study the tickers using [TradingView]
     frameborder="0"
     webkitallowfullscreen="true"
     mozallowfullscreen="true"
+    scrolling="no"
     style="
       position: absolute;
       top: 0;
