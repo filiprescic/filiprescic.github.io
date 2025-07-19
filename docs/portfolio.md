@@ -33,7 +33,6 @@ For more info regarding past performances, study the tickers using [TradingView]
     mozallowfullscreen="true"
     scrolling="no"
     style="
-      position: absolute;
       top: 0;
       left: 0;
       width: 100%;
