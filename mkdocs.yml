@@ -36,6 +36,7 @@ nav:
   - projects.md
 not_in_nav: |
   /nastava.md
+  /portfolio.md
 markdown_extensions:
   - attr_list
   - md_in_html

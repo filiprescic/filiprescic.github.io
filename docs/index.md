@@ -11,7 +11,7 @@ hide:
 >
 > ~ Tuco (*The Good, the Bad and the Ugly*)
 
-!!! info "Latest news"
+!!! info "Latest updates"
       - Participated and gave a talk at the 1st Annual [BridgeQG Conference](https://indico.in2p3.fr/event/34939/overview).
       - Participated at the Croatian Science Foundation [PhD Café](https://hrzz.hr/odrzan-rijeka-phd-cafe-6/).
       - *The Southern Wide-field Gamma-ray Observatory* (SWGO) White Paper now available on [ArXiv](https://arxiv.org/abs/2506.01786).  
@@ -62,7 +62,7 @@ hide:
 
     phone: +385 (0)51 584 629
 
-    e-mail: [filip.rescic.at.uniri.hr](mailto:filip.rescic@uniri.hr)
+    e-mail: [filip.rescic [at] uniri.hr](mailto:filip.rescic@uniri.hr)
 
 -   :material-telescope:{ .lg .middle } __Research Interests__
 
@@ -81,5 +81,14 @@ hide:
     - Research groups: [Wrinkle](https://wrinkle.uniri.hr/), [QuGraPheno](https://qugraphenozaragoza.wordpress.com/)
     - Institutes: [CAPA](https://capa.unizar.es/)
     - Other: [DMF](http://dmf.hr/), [Penkala](https://udruga-penkala.hr/en/association-penkala-2/)
+
+-   :material-account-clock:{ .lg .middle } __Independent Pursuits__
+
+    ---
+
+    - Private tutoring venture "[Didaktra](https://didaktra.com/)"
+    - Trading :chart_with_upwards_trend: (check out my [portfolio](portfolio.md))
+    - Metaphysic[s](https://www.youtube.com/watch?v=AxkZJmi-5xc)
+    - Economics
 
 </div>
