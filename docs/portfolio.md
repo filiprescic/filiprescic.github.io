@@ -21,6 +21,7 @@ For more info regarding past performances, study the tickers using [TradingView]
     box-sizing: content-box;
     height: 60vh;
     width: 100%;
+    aspect-ratio: 1 / 1; /* keeps it square on all screens */
     overflow: hidden; /* hides scrollbars */
   "
 >
