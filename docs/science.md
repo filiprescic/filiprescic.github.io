@@ -1,5 +1,5 @@
 ---
-title: "Science"
+title: "Science & Teaching"
 hide:
     - toc
 ---
@@ -41,6 +41,26 @@ For a more detailed overview, click [here](papers.md).
 
 ## PhD Research
 
+<!-- ??? note "PhD Research"
+
+    Supervisors:
+
+    - [Prof. José Manuel Carmona](https://personal.unizar.es/jcarmona/) ([UniZar](https://www.unizar.es/))
+    - [Assoc. Prof. Tomislav Terzić](https://wrinkle.uniri.hr/tomislav-terzic/) ([UniRi](https://uniri.hr/en/home/))
+
+    Progress:
+
+    - 3\. 6. 2024. Defended the Research Area "*Investigating Quantum Gravity's Influence on the Universe Transparency*"
+    - 10\. 4. 2024. Completed the course "*Selected chapters in astrophysics*"
+    - 26\. 2. 2024. Delivered talk on "*Approaches to Universe transparency study in an LIV scenario*" for the Seminar in Physics course
+  
+    Talks:
+
+    - 8\. 7. 2025. Regular talk contribution "*Assessing SWGO Sensitivity to Lorentz Invariance Violation through Transparency Studies*". Bridging high and low energies in search of quantum gravity - 2025 Cost Action CA23130 First Annual Conference. Paris, France.
+    - 26\. 11. 2024. Online contribution "*Detectability of Lorentz Invariance Violation effects with SWGO*". 2nd HAD Scientific Meeting of the Croatian Astronomical Society. Rijeka, Croatia.
+    - 16\. 7. 2024. Regular talk contribution "*Approaches to photon absorption in a Lorentz invariance violation scenario*". Fifth annual conference on quantum gravity phenomenology in the multi-messenger era (QGMM24). Madrid, Spain.
+    - 20\. 2. 2023. Regular talk contribution "*Study of Universe Transparency in an LIV Framework*". COST Action CA18108 Third Training School and 59. Winter School of Theoretical Physics "*Gravity - Classical, Quantum and Phenomenology*". Wojanów, Poland. -->
+  
 ### Supervisors
 
 - [Prof. José Manuel Carmona](https://personal.unizar.es/jcarmona/) ([UniZar](https://www.unizar.es/))
@@ -59,32 +79,61 @@ For a more detailed overview, click [here](papers.md).
 - 16\. 7. 2024. Regular talk contribution "*Approaches to photon absorption in a Lorentz invariance violation scenario*". Fifth annual conference on quantum gravity phenomenology in the multi-messenger era (QGMM24). Madrid, Spain.
 - 20\. 2. 2023. Regular talk contribution "*Study of Universe Transparency in an LIV Framework*". COST Action CA18108 Third Training School and 59. Winter School of Theoretical Physics "*Gravity - Classical, Quantum and Phenomenology*". Wojanów, Poland.
 
-## Participation in schools & conferences
+??? note "Schools & Conferences"
 
-- Bridging high and low energies in search of quantum gravity - 2025 Cost Action CA23130 First Annual Conference. Paris, France. ([BridgeQG](https://indico.in2p3.fr/event/34939/overview))
-- Searching for Quantum Gravity in the Sky, 2025. Bad Honnef, Germany. ([DPG](https://www.dpg-physik.de/veranstaltungen/2025/searching_for_quantum_gravity_in_the_sky))
-- Fifth annual conference on quantum gravity phenomenology in the multi-messenger era (QGMM24), 2024. Madrid, Spain. ([QGMM24](https://teorica.fis.ucm.es/QGMM24/index.html))
-- MPIK-CDY School on the Future of Gamma-Ray Astronomy, 2024. Heidelberg, Germany. ([MPIK-CDY](https://www.mpi-hd.mpg.de/MPIK_CDY_2024/))
-- COST Action CA18108 Fourth Annual Conference, 2023. Rijeka, Croatia. ([Indico](https://indico.capa.unizar.es/event/31/))
-- COST Action CA18108 Third Training School and 59. Winter School of Theoretical Physics "*Gravity - Classical, Quantum and Phenomenology*", 2023. Wojanów, Poland. ([Indico](https://indico.capa.unizar.es/event/30/))
-- COST Action CA18108 Second Training school, 2022. Belgrade, Serbia. ([Indico](https://indico.capa.unizar.es/event/23/))
-- ICTP Summer School on Particle Physics, 2021. ([Indico](https://indico.ictp.it/event/9538/other-view?view=ictptimetable))
-- Terrascale Summer School, 2020.
+    - Bridging high and low energies in search of quantum gravity - 2025 Cost Action CA23130 First Annual Conference. Paris, France. ([BridgeQG](https://indico.in2p3.fr/event/34939/overview))
+    - Searching for Quantum Gravity in the Sky, 2025. Bad Honnef, Germany. ([DPG](https://www.dpg-physik.de/veranstaltungen/2025/searching_for_quantum_gravity_in_the_sky))
+    - Fifth annual conference on quantum gravity phenomenology in the multi-messenger era (QGMM24), 2024. Madrid, Spain. ([QGMM24](https://teorica.fis.ucm.es/QGMM24/index.html))
+    - MPIK-CDY School on the Future of Gamma-Ray Astronomy, 2024. Heidelberg, Germany. ([MPIK-CDY](https://www.mpi-hd.mpg.de/MPIK_CDY_2024/))
+    - COST Action CA18108 Fourth Annual Conference, 2023. Rijeka, Croatia. ([Indico](https://indico.capa.unizar.es/event/31/))
+    - COST Action CA18108 Third Training School and 59. Winter School of Theoretical Physics "*Gravity - Classical, Quantum and Phenomenology*", 2023. Wojanów, Poland. ([Indico](https://indico.capa.unizar.es/event/30/))
+    - COST Action CA18108 Second Training school, 2022. Belgrade, Serbia. ([Indico](https://indico.capa.unizar.es/event/23/))
+    - ICTP Summer School on Particle Physics, 2021. ([Indico](https://indico.ictp.it/event/9538/other-view?view=ictptimetable))
+    - Terrascale Summer School, 2020.
 
-## Honours and awards
+??? note "Honours & Awards"
 
-- Erasmus+ Mobility Grant (University of Rijeka, 2023. - 2025.)
-- MOBDOK-2023 Research Visit Grant (Croatian Science Foundation, 2024.)
-- "Prometej" Grant (University of Rijeka Foundation, 2024.)
-- Study Completion Scholarship (Ludwig Maximilian University of Munich, 2021.)
-- "Deutschlandstipendium" Scholarship (Federal Republic of Germany, Federal Ministry of Education and Research, 2019.)
-- Best Bachelor Thesis Award (University of Rijeka, Department of Physics, 2019.)
-- University Bachelor of Physics with Highest Praise - *Summa Cum Laude* (University of Rijeka, Department of Physics, 2018.)
-- STEM Scholarship (Republic of Croatia, Ministry of Science and Education, 2018.)
-- Scholarship for Excellence (University of Rijeka, 2017.)
+    - Erasmus+ Mobility Grant (University of Rijeka, 2023. - 2025.)
+    - MOBDOK-2023 Research Visit Grant (Croatian Science Foundation, 2024.)
+    - "Prometej" Grant (University of Rijeka Foundation, 2024.)
+    - Study Completion Scholarship (Ludwig Maximilian University of Munich, 2021.)
+    - "Deutschlandstipendium" Scholarship (Federal Republic of Germany, Federal Ministry of Education and Research, 2019.)
+    - Best Bachelor Thesis Award (University of Rijeka, Department of Physics, 2019.)
+    - University Bachelor of Physics with Highest Praise - *Summa Cum Laude* (University of Rijeka, Department of Physics, 2018.)
+    - STEM Scholarship (Republic of Croatia, Ministry of Science and Education, 2018.)
+    - Scholarship for Excellence (University of Rijeka, 2017.)
 
-## Public talks
+??? info "Outreach"
 
-- 11\. 6. 2025. Croatian Science Foundation PhD Café: "*Možemo li izmjeriti kvantnu gravitaciju?*" (eng. "*Can we measure quantum gravity?*"). Rijeka, Croatia.
-- 24\. 5. 2023. Pint of Science: "*O kvantnoj gravitaciji*" (eng. "*About quantum gravity*"). Rijeka, Croatia
-- 23\. 6. 2022. Popularization talk: "*Bariogeneza - priča o nastanku čestica*" (eng. "*Baryogenesis - the story of the origin of particles*"). Rijeka, Croatia.
+    - 11\. 6. 2025. Croatian Science Foundation PhD Café: "*Možemo li izmjeriti kvantnu gravitaciju?*" (eng. "*Can we measure quantum gravity?*"). Rijeka, Croatia.
+    - 24\. 5. 2023. Pint of Science: "*O kvantnoj gravitaciji*" (eng. "*About quantum gravity*"). Rijeka, Croatia
+    - 23\. 6. 2022. Popularization talk: "*Bariogeneza - priča o nastanku čestica*" (eng. "*Baryogenesis - the story of the origin of particles*"). Rijeka, Croatia.
+
+---
+
+# Teaching activities
+
+!!! info
+    Up to date page with resources available [in Croatian](nastava.md).
+
+[Faculty of Physics](https://www.phy.uniri.hr/en/), [University of Rijeka](https://uniri.hr/en/home/) study programmes:
+
+- [Undergraduate Study Programme *Physics*](https://www.phy.uniri.hr/en/study-programmes/undergraduate.html)
+- [Graduate Study Programmes](https://www.phy.uniri.hr/en/study-programmes/graduate.html)
+
+## Current (2022./2023. - today)
+
+### Undergraduate courses
+
+- Physics II: electricity and magnetism
+- Mathematical Methods of Physics II
+
+### Graduate courses
+
+- Elementary particle physics I
+- Quantum Field Theory
+
+## Past (2020./2021.)
+
+Course: *Mathematical Methods for Physicists*.
+Course instructor: Prof. Jan von Delft. [Faculty of Physics](https://www.physik.lmu.de/en/), [Ludwig Maximilian University of Munich](https://www.lmu.de/en/).

@@ -41,14 +41,11 @@ Finally, in [VSCode](https://code.visualstudio.com/), press `Ctrl+Shift+P`, sear
 ### Pipeline development
 
 ```mermaid
-graph TD
-    A(Find suitable sources) -->B(Import the SWGO IRFs)
+graph LR
+    A(Pick a source) -->B(Import the SWGO IRFs)
     B --> C(Simulate datasets)
     C --> |Apply LIV attenuation|D(Fit the spectra)
-    D --> F(Add instrument sensitivity)
-    F --> |Compare to SR scenario|E[Can the source be used for LIV studies?]
-    E --> |No|A
-    E --> |Yes|G(Estimate new constraints and/or detection capabilities)
+    D --> E(Estimate new constraints and/or detection capabilities)
 ```
 
 ## Theoretical studies of LIV and DSR

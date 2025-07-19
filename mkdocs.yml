@@ -31,7 +31,6 @@ plugins: []
 nav: 
   - index.md
   - science.md
-  - teaching.md
   - papers.md
   - projects.md
 not_in_nav: |
