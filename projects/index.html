@@ -188,26 +188,7 @@
   
     
   
-  Science
-
-      </a>
-    </li>
-  
-
-      
-        
-  
-  
-  
-  
-    <li class="md-tabs__item">
-      <a href="../teaching/" class="md-tabs__link">
-        
-  
-  
-    
-  
-  Teaching
+  Science & Teaching
 
       </a>
     </li>
@@ -325,29 +306,7 @@
   
   
   <span class="md-ellipsis">
-    Science
-    
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-    
-      
-      
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../teaching/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    Teaching
+    Science & Teaching
     
   </span>
   
@@ -542,14 +501,11 @@
 <p>Modify the <code>|release|</code> placeholder in the code to match the desired <a href="https://docs.gammapy.org/dev/release-notes/index.html">Gammapy release</a>.</p>
 <p>Finally, in <a href="https://code.visualstudio.com/">VSCode</a>, press <code>Ctrl+Shift+P</code>, search for <code>"Python: Select Interpreter"</code>, and choose Gammapy as the interpreter.  </p>
 <h3 id="pipeline-development">Pipeline development</h3>
-<pre class="mermaid"><code>graph TD
-    A(Find suitable sources) --&gt;B(Import the SWGO IRFs)
+<pre class="mermaid"><code>graph LR
+    A(Pick a source) --&gt;B(Import the SWGO IRFs)
     B --&gt; C(Simulate datasets)
     C --&gt; |Apply LIV attenuation|D(Fit the spectra)
-    D --&gt; F(Add instrument sensitivity)
-    F --&gt; |Compare to SR scenario|E[Can the source be used for LIV studies?]
-    E --&gt; |No|A
-    E --&gt; |Yes|G(Estimate new constraints and/or detection capabilities)</code></pre>
+    D --&gt; E(Estimate new constraints and/or detection capabilities)</code></pre>
 <h2 id="theoretical-studies-of-liv-and-dsr">Theoretical studies of LIV and DSR</h2>
 <p>Collaborators: <a href="https://personal.unizar.es/jcarmona/">José Manuel Carmona</a> (UniZar), Jose Luis Cortés (UniZar), Maykoll Reyes (UniZar)</p>
 <div class="admonition abstract">
