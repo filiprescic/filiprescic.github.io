@@ -24,7 +24,7 @@ For more info regarding past performances, study the tickers using [TradingView]
   "
 >
   <iframe
-    src="https://chart-generator.draxlr.com/embed/mxeWejmPXxFXAibmV9NTZVGFAO3IdvTA"
+    src="https://chart-generator.draxlr.com/embed/DueWWRpWYC2ZhFiMrvBL4ENB7U93PINN"
     loading="lazy"
     title="Draxlr pie chart"
     frameborder="0"
