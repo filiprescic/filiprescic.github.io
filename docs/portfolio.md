@@ -5,8 +5,6 @@ hide:
 
 # Portfolio
 
-[RoR](https://www.investopedia.com/terms/r/rateofreturn.asp): **+8%**
-
 For more info regarding past performances, study the tickers using [TradingView](https://www.tradingview.com/)'s [screener](https://www.tradingview.com/screener/).
 
 <!-- <figure markdown="" style="float: center;">
@@ -26,7 +24,7 @@ For more info regarding past performances, study the tickers using [TradingView]
   "
 >
   <iframe
-    src="https://chart-generator.draxlr.com/embed/mTNBqv8fqGtGCsqzD4aTo7yWPIwAzgcY"
+    src="https://chart-generator.draxlr.com/embed/mxeWejmPXxFXAibmV9NTZVGFAO3IdvTA"
     loading="lazy"
     title="Draxlr pie chart"
     frameborder="0"
