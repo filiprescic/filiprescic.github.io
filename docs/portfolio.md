@@ -18,7 +18,7 @@ For more info regarding past performances, study the tickers using [TradingView]
     box-sizing: border-box;
     width: 100%;
     max-width: 600px;
-    margin: 0 auto;
+    margin: 10px auto;
     aspect-ratio: 1 / 1; /* keeps it square on all screens */
     overflow: hidden;
   "
