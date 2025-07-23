@@ -41,7 +41,7 @@ Finally, in [VSCode](https://code.visualstudio.com/), press `Ctrl+Shift+P`, sear
 ### Pipeline development
 
 ```mermaid
-graph LR
+graph TD
     A(Pick a source) -->B(Import the SWGO IRFs)
     B --> C(Simulate datasets)
     C --> |Apply LIV attenuation|D(Fit the spectra)
@@ -54,6 +54,10 @@ Collaborators: [José Manuel Carmona](https://personal.unizar.es/jcarmona/) (Uni
 
 !!! abstract "Summary"
     This project involves theoretical calculations within the framework of the quadratic subluminal scenario of Lorentz Invariance Violation (LIV) and the exploration of phenomenological models in Doubly Special Relativity (DSR). Given that the primary interaction in studies of Universe transparency is electron-positron pair production from photon collisions, this work centers on calculating key observables, including the cross-section of this process and the corresponding opacity function in the different models.
+
+!!! Success
+    Published research paper titled "*Photon absorption in a doubly special relativity model with undeformed free propagation and total momentum conservation*" in the *Journal of Cosmology and Astroparticle Physics*. We study the phenomenology of the different channels present within the classical basis of the $\kappa$-Poincaré
+    DSR framework. You can find the paper [here](https://iopscience.iop.org/article/10.1088/1475-7516/2025/07/066).
 
 !!! Success
     Published research paper titled "*Approaches to photon absorption in a Lorentz inavariance violation scenario*" in *Physical Review D*. There we present a novel result for the cross section of the $\gamma\gamma\to e^+e^−$ pair-production process in the quadratic subluminal LIV scenario. You can find the paper [here](https://doi.org/10.1103/PhysRevD.110.063035).

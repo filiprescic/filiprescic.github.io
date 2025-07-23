@@ -30,12 +30,13 @@ theme:
 plugins: []
 nav: 
   - index.md
-  - science.md
+  - science-teaching.md
   - papers.md
   - projects.md
 not_in_nav: |
   /nastava.md
   /portfolio.md
+  /teaching.md
 markdown_extensions:
   - attr_list
   - md_in_html

@@ -2,16 +2,17 @@
 title: "Science & Teaching"
 hide:
     - toc
+slug: science-teaching
 ---
-# Scientific activities
+## Scientific activities
 
-## Publications
+### Publications
 
 For a more detailed overview, click [here](papers.md).
 
-- SWGO Collaboration, "*Science Prospects for the Southern Wide-field Gamma-ray Observatory: SWGO*", ArXiv: [2506.01786](https://arxiv.org/abs/2506.01786), (2025)
+- J.M. Carmona, J.L. Cortés, **F. Rescic**, M.A. Reyes, T. Terzić, "*Photon Absorption in a Doubly Special Relativity Model with Undeformed Free Propagation and Total Momentum Conservation*" (2025), ArXiv: [2503.15203](https://arxiv.org/abs/2503.15203), DOI: [10.1088/1475-7516/2025/07/066](https://doi.org/10.1088/1475-7516/2025/07/066)
 
-- J.M. Carmona, J.L. Cortés, **F. Rescic**, M.A. Reyes, T. Terzić, "*Photon Absorption in a Doubly Special Relativity Model with Undeformed Free Propagation and Total Momentum Conservation*", ArXiv: [2503.15203](https://arxiv.org/abs/2503.15203), (2025)
+- SWGO Collaboration, "*Science Prospects for the Southern Wide-field Gamma-ray Observatory: SWGO*", ArXiv: [2506.01786](https://arxiv.org/abs/2506.01786), (2025)
 
 - A. Batista, ..., **F. Rescic**, et al., "*White Paper and Roadmap for Quantum Gravity Phenomenology in the Multi-Messenger Era*", *Classical and Quantum Gravity* (2025), ArXiv: [2312.00409](https://arxiv.org/abs/2312.00409), DOI: [10.1088/1361-6382/ad605a](https://doi.org/10.1088/1361-6382/ad605a)
 
@@ -19,9 +20,9 @@ For a more detailed overview, click [here](papers.md).
 
 - R. Emparan, E. Barakovic, R. Dekhil, **F. Rescic**, "*Black holes in the classical and quantum world*", Proceedings of Science - QG-MM School, [PoS 004](https://pos.sissa.it/440/004/) (2024), Arxiv: [2306.11139](https://arxiv.org/abs/2306.11139), DOI: [10.22323/1.440.0004](https://doir.org./10.22323/1.440.0004)
 
-## Memberships
+### Memberships
 
-### Current
+#### Current
 
 - COST Action CA23130 "*Bridging high and low energies in search of quantum gravity*" ([BridgeQG](https://web.infn.it/BridgeQG/))
 - *Centro de Astropartículas y Física de Altas Energías* ([CAPA](https://capa.unizar.es/))
@@ -29,17 +30,17 @@ For a more detailed overview, click [here](papers.md).
 - Research group *Wrinkle* ([Wrinkle](https://wrinkle.uniri.hr/))
 - Quantum Gravity Phenomenology research group of Zaragoza ([QuGraPheno](https://qugraphenozaragoza.wordpress.com/))
 
-### Past
+#### Past
 
 - COST Action CA18108 "*Quantum Gravity Phenomenology in the Multi-Messenger Approach*" ([QGMM](https://qg-mm.unizar.es/))
 
-## Funding
+### Funding
 
 - 16\. 9. 2024. - 31. 12. 2024. Research mobility at the [University of Padova](https://www.unipd.it/en/), [Department of Physics and Astronomy "Galileo Galilei"](https://www.dfa.unipd.it/en/). [Croatian Science Foundation](https://hrzz.hr/en/) project **MOBDOK-2023**
 - 18\. 12. 2023. - 17.12.2027. Collaborator on the [Croatian Science Foundation](https://hrzz.hr/en/) project **HRZZ IP-2022-10-4595** "Very-high-energy Gamma Ray Astronomy in the Multi-messenger Era"
 - 2024\. - 2025. Collaborator  on the [University of Rijeka](https://uniri.hr/en/) project **uniri-iskusni-prirod-23-24** "UNIRI projekti iskusnih znanstvenika 2023."
 
-## PhD Research
+### PhD Research
 
 <!-- ??? note "PhD Research"
 
@@ -61,18 +62,18 @@ For a more detailed overview, click [here](papers.md).
     - 16\. 7. 2024. Regular talk contribution "*Approaches to photon absorption in a Lorentz invariance violation scenario*". Fifth annual conference on quantum gravity phenomenology in the multi-messenger era (QGMM24). Madrid, Spain.
     - 20\. 2. 2023. Regular talk contribution "*Study of Universe Transparency in an LIV Framework*". COST Action CA18108 Third Training School and 59. Winter School of Theoretical Physics "*Gravity - Classical, Quantum and Phenomenology*". Wojanów, Poland. -->
   
-### Supervisors
+#### Supervisors
 
 - [Prof. José Manuel Carmona](https://personal.unizar.es/jcarmona/) ([UniZar](https://www.unizar.es/))
 - [Assoc. Prof. Tomislav Terzić](https://wrinkle.uniri.hr/tomislav-terzic/) ([UniRi](https://uniri.hr/en/home/))
 
-### Progress
+#### Progress
 
 - 3\. 6. 2024. Defended the Research Area "*Investigating Quantum Gravity's Influence on the Universe Transparency*"
 - 10\. 4. 2024. Completed the course "*Selected chapters in astrophysics*"
 - 26\. 2. 2024. Delivered talk on "*Approaches to Universe transparency study in an LIV scenario*" for the Seminar in Physics course
 
-### Talks
+#### Talks
 
 - 8\. 7. 2025. Regular talk contribution "*Assessing SWGO Sensitivity to Lorentz Invariance Violation through Transparency Studies*". Bridging high and low energies in search of quantum gravity - 2025 Cost Action CA23130 First Annual Conference. Paris, France.
 - 26\. 11. 2024. Online contribution "*Detectability of Lorentz Invariance Violation effects with SWGO*". 2nd HAD Scientific Meeting of the Croatian Astronomical Society. Rijeka, Croatia.
@@ -111,7 +112,7 @@ For a more detailed overview, click [here](papers.md).
 
 ---
 
-# Teaching activities
+## Teaching activities
 
 !!! info
     Up to date page with resources available [in Croatian](nastava.md).
@@ -121,19 +122,19 @@ For a more detailed overview, click [here](papers.md).
 - [Undergraduate Study Programme *Physics*](https://www.phy.uniri.hr/en/study-programmes/undergraduate.html)
 - [Graduate Study Programmes](https://www.phy.uniri.hr/en/study-programmes/graduate.html)
 
-## Current (2022./2023. - today)
+### Current (2022./2023. - today)
 
-### Undergraduate courses
+#### Undergraduate courses
 
 - Physics II: electricity and magnetism
 - Mathematical Methods of Physics II
 
-### Graduate courses
+#### Graduate courses
 
 - Elementary particle physics I
 - Quantum Field Theory
 
-## Past (2020./2021.)
+### Past (2020./2021.)
 
 Course: *Mathematical Methods for Physicists*.
 Course instructor: Prof. Jan von Delft. [Faculty of Physics](https://www.physik.lmu.de/en/), [Ludwig Maximilian University of Munich](https://www.lmu.de/en/).
