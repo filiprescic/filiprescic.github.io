@@ -83,7 +83,7 @@ hide:
     - Institutes: [CAPA](https://capa.unizar.es/)
     - Other: [DMF](http://dmf.hr/), [Penkala](https://udruga-penkala.hr/en/association-penkala-2/)
 
--   :material-account-clock:{ .lg .middle } __Independent Pursuits__
+-   :material-account-clock:{ .lg .middle } __Other Pursuits__
 
     ---
 
