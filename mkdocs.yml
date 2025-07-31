@@ -13,8 +13,9 @@ theme:
   font:
     text: Roboto 
   custom_dir: overrides
+  favicon: images/account-circle-outline.svg
   icon:
-    logo: material/library
+    logo: material/account-circle-outline
   palette: 
     # Palette toggle for light mode
     - scheme: default

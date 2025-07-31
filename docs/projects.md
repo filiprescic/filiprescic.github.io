@@ -48,6 +48,8 @@ graph TD
     D --> E(Estimate new constraints and/or detection capabilities)
 ```
 
+---
+
 ## Theoretical studies of LIV and DSR
 
 Collaborators: [José Manuel Carmona](https://personal.unizar.es/jcarmona/) (UniZar), Jose Luis Cortés (UniZar), Maykoll Reyes (UniZar)

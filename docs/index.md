@@ -72,6 +72,8 @@ hide:
 
 </div>
 
+---
+
 !!! info "Recent news"
       - Published research paper titled "*Photon absorption in a doubly special relativity model with undeformed free propagation and total momentum conservation*" in the *Journal of Cosmology and Astroparticle Physics*. You can find it [here](https://iopscience.iop.org/article/10.1088/1475-7516/2025/07/066).  
       - Participated and gave a talk at the 1st Annual [BridgeQG Conference](https://indico.in2p3.fr/event/34939/overview).
