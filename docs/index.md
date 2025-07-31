@@ -11,28 +11,6 @@ hide:
 >
 > ~ Tuco (*The Good, the Bad and the Ugly*)
 
-!!! info "Latest updates"
-      - Published research paper titled "*Photon absorption in a doubly special relativity model with undeformed free propagation and total momentum conservation*" in the *Journal of Cosmology and Astroparticle Physics*. You can find it [here](https://iopscience.iop.org/article/10.1088/1475-7516/2025/07/066).  
-      - Participated and gave a talk at the 1st Annual [BridgeQG Conference](https://indico.in2p3.fr/event/34939/overview).
-      - Participated at the Croatian Science Foundation [PhD Café](https://hrzz.hr/odrzan-rijeka-phd-cafe-6/).
-      - *The Southern Wide-field Gamma-ray Observatory* (SWGO) White Paper now available on [ArXiv](https://arxiv.org/abs/2506.01786).  
-      - Presented the research group [Wrinkle](https://wrinkle.uniri.hr/) on the [BridgeQG](https://www.cost.eu/actions/CA23130/) COST Action WG2 meeting. You can find the presentation [here](files/bridgeqg_wrinkle.pdf).  
-      - New preprint available on [ArXiv](https://arxiv.org/abs/2503.15203).  
-      - Participated at the school "Searching for Quantum Gravity in the Sky" [:link:](https://www.dpg-physik.de/veranstaltungen/2025/searching_for_quantum_gravity_in_the_sky)
-      - Erasmus+ Mobility at the Facultad de Ciencias, Universidad de Zaragoza. Period: 13. 1. 2025. - 12. 2. 2025.
-      - COST Action CA18108 "*White Paper and Roadmap for Quantum Gravity Phenomenology in the Multi-Messenger Era*" published in *Classical and Quantum Gravity*. You can find it [here](https://doi.org/10.1088/1361-6382/ad605a).
-
-    ??? info "2024"
-        - Research visit at the Department of Physics and Astronomy "Galileo Galilei" of the University of Padova. The stay was funded by the Croatian Science Foundation Oubound Mobility grant MOBDOK-2023. Period: 16. 9. 2024. - 31. 12. 2024.
-        - Published research paper in *Physical Review D* titled "*Approaches to photon absorption in a Lorentz inavariance violation scenario*". You can find it [here](https://doi.org/10.1103/PhysRevD.110.063035).
-        - Erasmus+ Mobility at the Facultad de Ciencias, Universidad de Zaragoza. Period: 2. 9. 2024. - 15. 9. 2024.
-        - Participated at the "*Fifth annual conference on quantum gravity phenomenology in the multi-messenger era (QGMM24)*" in Madrid, Spain.
-        - Participated at the "*MPIK-CDY School on the Future of Gamma-Ray Astronomy*" [:link:](https://www.mpi-hd.mpg.de/MPIK_CDY_2024/) 
-        - Defended the Research Area "*Investigating Quantum Gravity's Influence on the Universe Transparency*".
-        - Completed the course "*Selected chapters in astrophysics*".
-        - Delivered talk on "*Approaches to Universe transparency study in an LIV scenario*" for the Seminar in Physics course.
-        - Erasmus+ Mobility at the Facultad de Ciencias, Universidad de Zaragoza. Period: 8. 1. 2024. - 6. 2. 2024.
-
 <div class="grid cards" markdown>
 
 - <figure markdown="" style="float: center;">
@@ -93,3 +71,25 @@ hide:
     - Economics
 
 </div>
+
+!!! info "Recent news"
+      - Published research paper titled "*Photon absorption in a doubly special relativity model with undeformed free propagation and total momentum conservation*" in the *Journal of Cosmology and Astroparticle Physics*. You can find it [here](https://iopscience.iop.org/article/10.1088/1475-7516/2025/07/066).  
+      - Participated and gave a talk at the 1st Annual [BridgeQG Conference](https://indico.in2p3.fr/event/34939/overview).
+      - Participated at the Croatian Science Foundation [PhD Café](https://hrzz.hr/odrzan-rijeka-phd-cafe-6/).
+      - *The Southern Wide-field Gamma-ray Observatory* (SWGO) White Paper now available on [ArXiv](https://arxiv.org/abs/2506.01786).  
+      - Presented the research group [Wrinkle](https://wrinkle.uniri.hr/) on the [BridgeQG](https://www.cost.eu/actions/CA23130/) COST Action WG2 meeting. You can find the presentation [here](files/bridgeqg_wrinkle.pdf).  
+      - New preprint available on [ArXiv](https://arxiv.org/abs/2503.15203).  
+      - Participated at the school "Searching for Quantum Gravity in the Sky" [:link:](https://www.dpg-physik.de/veranstaltungen/2025/searching_for_quantum_gravity_in_the_sky)
+      - Erasmus+ Mobility at the Facultad de Ciencias, Universidad de Zaragoza. Period: 13. 1. 2025. - 12. 2. 2025.
+      - COST Action CA18108 "*White Paper and Roadmap for Quantum Gravity Phenomenology in the Multi-Messenger Era*" published in *Classical and Quantum Gravity*. You can find it [here](https://doi.org/10.1088/1361-6382/ad605a).
+
+    ??? info "2024"
+        - Research visit at the Department of Physics and Astronomy "Galileo Galilei" of the University of Padova. The stay was funded by the Croatian Science Foundation Oubound Mobility grant MOBDOK-2023. Period: 16. 9. 2024. - 31. 12. 2024.
+        - Published research paper in *Physical Review D* titled "*Approaches to photon absorption in a Lorentz inavariance violation scenario*". You can find it [here](https://doi.org/10.1103/PhysRevD.110.063035).
+        - Erasmus+ Mobility at the Facultad de Ciencias, Universidad de Zaragoza. Period: 2. 9. 2024. - 15. 9. 2024.
+        - Participated at the "*Fifth annual conference on quantum gravity phenomenology in the multi-messenger era (QGMM24)*" in Madrid, Spain.
+        - Participated at the "*MPIK-CDY School on the Future of Gamma-Ray Astronomy*" [:link:](https://www.mpi-hd.mpg.de/MPIK_CDY_2024/) 
+        - Defended the Research Area "*Investigating Quantum Gravity's Influence on the Universe Transparency*".
+        - Completed the course "*Selected chapters in astrophysics*".
+        - Delivered talk on "*Approaches to Universe transparency study in an LIV scenario*" for the Seminar in Physics course.
+        - Erasmus+ Mobility at the Facultad de Ciencias, Universidad de Zaragoza. Period: 8. 1. 2024. - 6. 2. 2024.
