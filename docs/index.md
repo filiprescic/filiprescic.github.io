@@ -65,10 +65,10 @@ hide:
 
     ---
 
-    - Private tutoring venture "[Didaktra](https://didaktra.com/)"
+    - Freelance tutoring business "[Didaktra](https://didaktra.com/)"
     - Trading :chart_with_upwards_trend: (check out my [ETF](https://www.investopedia.com/terms/e/etf.asp) [portfolio](portfolio.md))
     - Metaphysic[s](https://www.youtube.com/watch?v=AxkZJmi-5xc)
-    - Economics
+    - Economics & Finance research
 
 </div>
 
