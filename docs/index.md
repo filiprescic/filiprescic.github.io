@@ -23,7 +23,7 @@ hide:
 -   :material-account-circle:{ .lg .middle } __General info__
 
     ---
-    - Teaching assistant and PhD student at the [Faculty of Physics](https://www.arhiva.phy.uniri.hr/en/), [University of Rijeka](https://uniri.hr/en/home/) :hr:
+    - Teaching assistant and PhD student at the [Faculty of Physics](https://phy.uniri.hr/), [University of Rijeka](https://uniri.hr/en/home/) :hr:
     - PhD student at the [Faculty of Science](https://ciencias.unizar.es/intymov-incoming-students), [University of Zaragoza](https://www.unizar.es/) :es:
     - Master of Science (2022) [Faculty of Physics](https://www.physik.lmu.de/en/), [Ludwig Maximilian University of Munich](https://www.lmu.de/en/) :de:
   
@@ -33,9 +33,9 @@ hide:
 
     ---
 
-    [Faculty of Physics](https://www.arhiva.phy.uniri.hr/en/), [Univesity of Rijeka](https://uniri.hr/en/home/)
+    [Faculty of Physics](https://phy.uniri.hr/), [University of Rijeka](https://uniri.hr/en/home/)
 
-    Radmile Matejčić 2, 51000 Rijeka, Croatia
+    Radmile Matejčić 2, 51000 Rijeka, Croatia :hr:
 
     Office O-S10
 
