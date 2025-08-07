@@ -3,7 +3,7 @@ hide:
     - navigation
 ---    
 
-# Portfolio
+# ETF Portfolio
 
 For more info regarding past performances, study the tickers using [TradingView](https://www.tradingview.com/)'s [screener](https://www.tradingview.com/screener/).
 
@@ -24,7 +24,7 @@ For more info regarding past performances, study the tickers using [TradingView]
   "
 >
   <iframe
-    src="https://chart-generator.draxlr.com/embed/DueWWRpWYC2ZhFiMrvBL4ENB7U93PINN"
+    src="https://chart-generator.draxlr.com/embed/QUapLN1Re1m6XGIrhsg3pMZ9BQbXpWOj"
     loading="lazy"
     title="Draxlr pie chart"
     frameborder="0"
