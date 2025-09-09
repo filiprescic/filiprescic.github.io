@@ -5,6 +5,8 @@ hide:
 
 # ETF Portfolio
 
+[What's an ETF?](https://www.investopedia.com/terms/e/etf.asp)
+
 For more info regarding past performances, study the tickers using [TradingView](https://www.tradingview.com/)'s [screener](https://www.tradingview.com/screener/).
 
 <div
