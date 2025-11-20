@@ -76,6 +76,8 @@ hide:
 
 !!! info "Recent news"
 
+      - Research visit at the Facultad de Ciencias, Universidad de Zaragoza. Period: 10. 11. 2025. - 19. 12. 2025.
+      - New preprint available on [ArXiv](https://arxiv.org/abs/2511.15542)
       - Research visit at the Facultad de Ciencias, Universidad de Zaragoza. Period: 1. 9. 2025. - 13. 9. 2025.  
       - Participated at the [1st MAGIC Open Data-Analysis School](https://acme-magic-odas.sciencesconf.org/).  
       - Published research paper titled "*Photon absorption in a doubly special relativity model with undeformed free propagation and total momentum conservation*" in the *Journal of Cosmology and Astroparticle Physics*. You can find it [here](https://iopscience.iop.org/article/10.1088/1475-7516/2025/07/066).  

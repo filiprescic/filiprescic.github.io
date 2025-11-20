@@ -10,6 +10,8 @@ slug: science-teaching
 
 For a more detailed overview, click [here](papers.md).
 
+- **F. Rescic**, L. Recabarren Vergara, M. Doro, T. Terzić, "*Is There New Physics Beyond 30 TeV in the BOAT?*", ArXiv:[2511.15542](https://arxiv.org/abs/2511.15542), (2025)
+
 - J.M. Carmona, J.L. Cortés, **F. Rescic**, M.A. Reyes, T. Terzić, "*Photon Absorption in a Doubly Special Relativity Model with Undeformed Free Propagation and Total Momentum Conservation*" (2025), ArXiv: [2503.15203](https://arxiv.org/abs/2503.15203), DOI: [10.1088/1475-7516/2025/07/066](https://doi.org/10.1088/1475-7516/2025/07/066)
 
 - SWGO Collaboration, "*Science Prospects for the Southern Wide-field Gamma-ray Observatory: SWGO*", ArXiv: [2506.01786](https://arxiv.org/abs/2506.01786), (2025)
@@ -94,6 +96,7 @@ For a more detailed overview, click [here](papers.md).
 
 ??? note "Honours & Awards"
 
+    - Best scientific paper in the Division of Theoretical Physics and Astrophysics for 2024.
     - Erasmus+ Mobility Grant (University of Rijeka, 2023. - 2025.)
     - MOBDOK-2023 Research Visit Grant (Croatian Science Foundation, 2024.)
     - "Prometej" Grant (University of Rijeka Foundation, 2024.)
