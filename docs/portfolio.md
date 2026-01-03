@@ -11,27 +11,26 @@ For more info regarding past performances, study the tickers using [TradingView]
 
 <div
   style="
-    box-sizing: border-box;
-    width: 100%;
-    max-width: 600px;
-    margin: auto;
-    aspect-ratio: 1 / 1; /* keeps it square on all screens */
-    overflow: hidden;
+    position: relative;
+    box-sizing: content-box;
+    height: 50vh;
+    width: auto;
   "
 >
   <iframe
-    src="https://chart-generator.draxlr.com/embed/QUapLN1Re1m6XGIrhsg3pMZ9BQbXpWOj"
+    src="https://chart-generator.draxlr.com/embed/qe3xc76GxtO2egnSLdULWOjy2XlSzSz8"
     loading="lazy"
     title="Draxlr pie chart"
     frameborder="0"
     webkitallowfullscreen="true"
     mozallowfullscreen="true"
-    scrolling="no"
+    scrolling= "no"
     style="
+      position: absolute;
+      top: 0;
+      left: 0;
       width: 100%;
       height: 100%;
-      border: none;
-      display: block;
     "
   ></iframe>
 </div>
