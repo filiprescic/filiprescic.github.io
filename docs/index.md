@@ -75,7 +75,7 @@ hide:
 ---
 
 !!! info "Recent news"
-    - Participated at the [BridgeQG](https://web.infn.it/BridgeQG/) Workshop "*Bridging High-Energy Astrophysical Modelling and Lorentz Invariance Violation Studies*" [:link:](https://indico.in2p3.fr/event/37528/)
+    - Participated and gave a talk at the [BridgeQG](https://web.infn.it/BridgeQG/) Workshop "*Bridging High-Energy Astrophysical Modelling and Lorentz Invariance Violation Studies*" [:link:](https://indico.in2p3.fr/event/37528/). You can find my talk [here](https://indico.in2p3.fr/event/37528/contributions/168195/attachments/99592/153881/bridgeqg_rescic.pdf).
 
     ??? info "2025"
         - Research visit at the Facultad de Ciencias, Universidad de Zaragoza. Period: 10. 11. 2025. - 19. 12. 2025.
