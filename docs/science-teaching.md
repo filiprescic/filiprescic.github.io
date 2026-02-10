@@ -10,7 +10,7 @@ slug: science-teaching
 
 For a more detailed overview, click [here](papers.md).
 
-- **F. Rescic**, L. Recabarren Vergara, M. Doro, T. Terzić, "*Is There New Physics Beyond 30 TeV in the BOAT?*", ArXiv:[2511.15542](https://arxiv.org/abs/2511.15542), (2025)
+- **F. Rescic**, L. Recabarren Vergara, M. Doro, T. Terzić, "*Is There New Physics Beyond 30 TeV in the BOAT?*", ArXiv: [2511.15542](https://arxiv.org/abs/2511.15542), (2025)
 
 - J.M. Carmona, J.L. Cortés, **F. Rescic**, M.A. Reyes, T. Terzić, "*Photon Absorption in a Doubly Special Relativity Model with Undeformed Free Propagation and Total Momentum Conservation*" (2025), ArXiv: [2503.15203](https://arxiv.org/abs/2503.15203), DOI: [10.1088/1475-7516/2025/07/066](https://doi.org/10.1088/1475-7516/2025/07/066)
 

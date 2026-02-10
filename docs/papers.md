@@ -36,7 +36,7 @@ hide:
     A thorough appraisal of current strategies and experimental frameworks, regarding quantum gravity phenomenology, is provided here. Our aim is twofold: a description of tentative multimessenger explorations, plus a focus on future detection experiments.
     As the outlook of the network of researchers that formed through the COST Action CA18108 "Quantum gravity phenomenology in the multi-messenger approach (QG-MM)", in this work we give an overview of the desiderata that future theoretical frameworks, observational facilities, and data-sharing policies should satisfy in order to advance the cause of quantum gravity phenomenology.
 
-## *Approaches to photon absorption in a Lorentz inavariance violation scenario*
+## *Approaches to photon absorption in a Lorentz invariance violation scenario*
 
 - Authors: J.M. Carmona, J.L. Cortés, **F. Rescic**, M.A. Reyes, T. Terzić, F.I. Vrban
 - Journal: *Physical Review D*
