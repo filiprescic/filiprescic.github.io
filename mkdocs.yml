@@ -1,6 +1,6 @@
 site_name: Filip Rescic - personal page
 theme: 
-  name: material  
+  name: material
   features:
     - navigation.tabs
     #- navigation.tabs.sticky
