@@ -42,9 +42,9 @@ For a more detailed overview, click [here](papers.md).
 - 18\. 12. 2023. - 17.12.2027. Collaborator on the [Croatian Science Foundation](https://hrzz.hr/en/) project **HRZZ IP-2022-10-4595** "Very-high-energy Gamma Ray Astronomy in the Multi-messenger Era"
 - 2024\. - 2025. Collaborator  on the [University of Rijeka](https://uniri.hr/en/) project **uniri-iskusni-prirod-23-24** "UNIRI projekti iskusnih znanstvenika 2023."
 
-### PhD Research
+<!-- ### PhD Research -->
 
-<!-- ??? note "PhD Research"
+??? note "PhD"
 
     Supervisors:
 
@@ -53,18 +53,20 @@ For a more detailed overview, click [here](papers.md).
 
     Progress:
 
+    - 11\. 3. 2026. Completed the courses "**Data analysis in high energy physics" and "*Experimental methods in Astroparticle Physics*"
     - 3\. 6. 2024. Defended the Research Area "*Investigating Quantum Gravity's Influence on the Universe Transparency*"
     - 10\. 4. 2024. Completed the course "*Selected chapters in astrophysics*"
     - 26\. 2. 2024. Delivered talk on "*Approaches to Universe transparency study in an LIV scenario*" for the Seminar in Physics course
   
     Talks:
 
+    - 4\. 2. 2026. Regular talk contribution "*Phenomenology and Astrophysical Probes of Lorentz Invariance Violation and Doubly Special Relativity*". BridgeQG Workshop - Bridging High-Energy Astrophysical Modelling and Lorentz Invariance Violation Studies. Annecy, France.
     - 8\. 7. 2025. Regular talk contribution "*Assessing SWGO Sensitivity to Lorentz Invariance Violation through Transparency Studies*". Bridging high and low energies in search of quantum gravity - 2025 Cost Action CA23130 First Annual Conference. Paris, France.
     - 26\. 11. 2024. Online contribution "*Detectability of Lorentz Invariance Violation effects with SWGO*". 2nd HAD Scientific Meeting of the Croatian Astronomical Society. Rijeka, Croatia.
     - 16\. 7. 2024. Regular talk contribution "*Approaches to photon absorption in a Lorentz invariance violation scenario*". Fifth annual conference on quantum gravity phenomenology in the multi-messenger era (QGMM24). Madrid, Spain.
-    - 20\. 2. 2023. Regular talk contribution "*Study of Universe Transparency in an LIV Framework*". COST Action CA18108 Third Training School and 59. Winter School of Theoretical Physics "*Gravity - Classical, Quantum and Phenomenology*". Wojanów, Poland. -->
+    - 20\. 2. 2023. Regular talk contribution "*Study of Universe Transparency in an LIV Framework*". COST Action CA18108 Third Training School and 59. Winter School of Theoretical Physics "*Gravity - Classical, Quantum and Phenomenology*". Wojanów, Poland.
   
-#### Supervisors
+<!-- #### Supervisors
 
 - [Prof. José Manuel Carmona](https://personal.unizar.es/jcarmona/) ([UniZar](https://www.unizar.es/))
 - [Assoc. Prof. Tomislav Terzić](https://wrinkle.uniri.hr/tomislav-terzic/) ([UniRi](https://uniri.hr/en/home/))
@@ -82,7 +84,7 @@ Doubly Special Relativity*". BridgeQG Workshop - Bridging High-Energy Astrophysi
 - 8\. 7. 2025. Regular talk contribution "*Assessing SWGO Sensitivity to Lorentz Invariance Violation through Transparency Studies*". Bridging high and low energies in search of quantum gravity - 2025 Cost Action CA23130 First Annual Conference. Paris, France.
 - 26\. 11. 2024. Online contribution "*Detectability of Lorentz Invariance Violation effects with SWGO*". 2nd HAD Scientific Meeting of the Croatian Astronomical Society. Rijeka, Croatia.
 - 16\. 7. 2024. Regular talk contribution "*Approaches to photon absorption in a Lorentz invariance violation scenario*". Fifth annual conference on quantum gravity phenomenology in the multi-messenger era (QGMM24). Madrid, Spain.
-- 20\. 2. 2023. Regular talk contribution "*Study of Universe Transparency in an LIV Framework*". COST Action CA18108 Third Training School and 59. Winter School of Theoretical Physics "*Gravity - Classical, Quantum and Phenomenology*". Wojanów, Poland.
+- 20\. 2. 2023. Regular talk contribution "*Study of Universe Transparency in an LIV Framework*". COST Action CA18108 Third Training School and 59. Winter School of Theoretical Physics "*Gravity - Classical, Quantum and Phenomenology*". Wojanów, Poland. -->
 
 ??? note "Schools & Conferences"
 
