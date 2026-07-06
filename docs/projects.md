@@ -14,6 +14,9 @@ Collaborators: [Michele Doro](https://userswww.pd.infn.it/~mdoro/index.html) (Un
 !!! Success
     Presented our work in the talk "*Assessing SWGO Sensitivity to Lorentz Invariance Violation through Transparency Studies*" at the 1st Annual [BridgeQG Conference](https://indico.in2p3.fr/event/34939/overview).
 
+!!! Success
+    Published research paper titled "*Is There New Physics Beyond 30 TeV in the BOAT?*" in *Physics of the Dark Universe*. We study the possibility of new physics signals in the extrapolated spectrum of [GRB 221009A](https://en.wikipedia.org/wiki/GRB_221009A). You can find the paper [here](https://www.sciencedirect.com/science/article/pii/S2212686426001780?via%3Dihub).
+
 ### Gammapy installation
 
 The analysis is primarily conducted using the Python package [Gammapy](https://docs.gammapy.org/dev/index.html). One of the recommended installation methods is via [Miniconda](https://docs.anaconda.com/miniconda/). To install Miniconda, run the following command(s) in the terminal:
@@ -37,16 +40,6 @@ conda env create -f gammapy-|release|-environment.yml
 Modify the `|release|` placeholder in the code to match the desired [Gammapy release](https://docs.gammapy.org/dev/release-notes/index.html).
 
 Finally, in [VSCode](https://code.visualstudio.com/), press `Ctrl+Shift+P`, search for `"Python: Select Interpreter"`, and choose Gammapy as the interpreter.  
-
-### Pipeline development
-
-```mermaid
-graph TD
-    A(Pick a source) -->B(Import the SWGO IRFs)
-    B --> C(Simulate datasets)
-    C --> |Apply LIV attenuation|D(Fit the spectra)
-    D --> E(Estimate new constraints and/or detection capabilities)
-```
 
 ---
 

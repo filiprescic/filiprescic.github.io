@@ -75,6 +75,7 @@ hide:
 ---
 
 !!! info "Recent news"
+    - Published research paper in *Physics of the Dark Universe* titled "*Is There New Physics Beyond 30 TeV in the BOAT?*". You can find it [here](https://www.sciencedirect.com/science/article/pii/S2212686426001780?via%3Dihub).
     - Participated at the second [BridgeQG](https://web.infn.it/BridgeQG/) Training School "*Quantum and classical gravity in low-energy quantum systems*" [:link:](https://agenda.infn.it/event/49800/).
     - Participated and gave a talk at the [BridgeQG](https://web.infn.it/BridgeQG/) Workshop "*Bridging High-Energy Astrophysical Modelling and Lorentz Invariance Violation Studies*" [:link:](https://indico.in2p3.fr/event/37528/). You can find my talk [here](https://indico.in2p3.fr/event/37528/contributions/168195/attachments/99592/153881/bridgeqg_rescic.pdf).
 

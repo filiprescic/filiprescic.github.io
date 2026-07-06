@@ -5,6 +5,16 @@ hide:
     - navigation
 ---
 
+## *Is There New Physics Beyond 30 TeV in the BOAT?*
+
+- Authors: **F. Rescic**, L. Recabarren Vergara, M. Doro, T. Terzić
+- Journal: *Physics of the Dark Universe*
+- DOI: [10.1016/j.dark.2026.102389](https://www.sciencedirect.com/science/article/pii/S2212686426001780?via%3Dihub)
+- ArXiv: [2511.15542](https://arxiv.org/abs/2511.15542)
+- Year: 2026
+!!! Abstract
+    The exceptionally bright gamma-ray burst GRB 221009A, detected up to multi-TeV energies by the LHAASO observatory, provides a unique opportunity to probe possible deviations from standard photon propagation at extreme energies. In particular, it allows to test quadratic subluminal Lorentz Invariance Violation (LIV) scenarios through a potential enhancement of the observed flux at the highest energies. We argue that excesses in the GRB 221009A data currently classified as non-detections at energies $E \gtrsim 30$ TeV warrant further investigation, as they may indicate a recovery of the observable spectrum consistent with the LIV-induced suppression of $\gamma\gamma \to e^-e^+$ interactions during propagation. The absence of such a signature would allow one to exclude previously unexplored regions of the parameter space associated with the energy scale of new physics.
+
 ## *Photon Absorption in a Doubly Special Relativity Model with Undeformed Free Propagation and Total Momentum Conservation*
 
 - Authors: J.M. Carmona, J.L. Cortés, **F. Rescic**, M.A. Reyes, T. Terzić
