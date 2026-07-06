@@ -440,17 +440,6 @@
   
 </li>
         
-          <li class="md-nav__item">
-  <a href="#pipeline-development" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        Pipeline development
-      
-    </span>
-  </a>
-  
-</li>
-        
       </ul>
     </nav>
   
@@ -523,6 +512,10 @@
 <p class="admonition-title">Success</p>
 <p>Presented our work in the talk "<em>Assessing SWGO Sensitivity to Lorentz Invariance Violation through Transparency Studies</em>" at the 1st Annual <a href="https://indico.in2p3.fr/event/34939/overview">BridgeQG Conference</a>.</p>
 </div>
+<div class="admonition success">
+<p class="admonition-title">Success</p>
+<p>Published research paper titled "<em>Is There New Physics Beyond 30 TeV in the BOAT?</em>" in <em>Physics of the Dark Universe</em>. We study the possibility of new physics signals in the extrapolated spectrum of <a href="https://en.wikipedia.org/wiki/GRB_221009A">GRB 221009A</a>. You can find the paper <a href="https://www.sciencedirect.com/science/article/pii/S2212686426001780?via%3Dihub">here</a>.</p>
+</div>
 <h3 id="gammapy-installation">Gammapy installation</h3>
 <p>The analysis is primarily conducted using the Python package <a href="https://docs.gammapy.org/dev/index.html">Gammapy</a>. One of the recommended installation methods is via <a href="https://docs.anaconda.com/miniconda/">Miniconda</a>. To install Miniconda, run the following command(s) in the terminal:</p>
 <div class="language-sh highlight"><pre><span></span><code><span id="__span-0-1"><a id="__codelineno-0-1" name="__codelineno-0-1" href="#__codelineno-0-1"></a>mkdir<span class="w"> </span>-p<span class="w"> </span>~/miniconda3
@@ -538,12 +531,6 @@
 </span></code></pre></div>
 <p>Modify the <code>|release|</code> placeholder in the code to match the desired <a href="https://docs.gammapy.org/dev/release-notes/index.html">Gammapy release</a>.</p>
 <p>Finally, in <a href="https://code.visualstudio.com/">VSCode</a>, press <code>Ctrl+Shift+P</code>, search for <code>"Python: Select Interpreter"</code>, and choose Gammapy as the interpreter.  </p>
-<h3 id="pipeline-development">Pipeline development</h3>
-<pre class="mermaid"><code>graph TD
-    A(Pick a source) --&gt;B(Import the SWGO IRFs)
-    B --&gt; C(Simulate datasets)
-    C --&gt; |Apply LIV attenuation|D(Fit the spectra)
-    D --&gt; E(Estimate new constraints and/or detection capabilities)</code></pre>
 <hr />
 <h2 id="theoretical-studies-of-liv-and-dsr">Theoretical studies of LIV and DSR</h2>
 <p>Collaborators: <a href="https://personal.unizar.es/jcarmona/">José Manuel Carmona</a> (UniZar), Jose Luis Cortés (UniZar), Maykoll Reyes (UniZar)</p>
