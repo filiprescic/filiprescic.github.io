@@ -53,6 +53,7 @@ For a more detailed overview, click [here](papers.md).
 
     Progress:
 
+    - 15\. 7. 2026. Defended the Thesis Topic "*Beyond Einstein: Exploring the Universe’s Transparency through Lorentz Invariance Violation and Doubly Special Relativity in Astrophysical Phenomena*"
     - 11\. 3. 2026. Completed the courses "**Data analysis in high energy physics" and "*Experimental methods in Astroparticle Physics*"
     - 3\. 6. 2024. Defended the Research Area "*Investigating Quantum Gravity's Influence on the Universe Transparency*"
     - 10\. 4. 2024. Completed the course "*Selected chapters in astrophysics*"
@@ -88,6 +89,7 @@ Doubly Special Relativity*". BridgeQG Workshop - Bridging High-Energy Astrophysi
 
 ??? note "Schools & Conferences"
 
+    - COST Action CA23130 Second Training School "*Quantum and classical gravity in low-energy quantum systems*". Belgrade, Serbia. ([Indico](https://agenda.infn.it/event/49800/))
     - BridgeQG Workshop - Bridging High-Energy Astrophysical Modelling and Lorentz Invariance Violation Studies. Annecy, France.([BridgeQG](https://indico.in2p3.fr/event/37528/))
     - Bridging high and low energies in search of quantum gravity - 2025 Cost Action CA23130 First Annual Conference. Paris, France. ([BridgeQG](https://indico.in2p3.fr/event/34939/overview))
     - Searching for Quantum Gravity in the Sky, 2025. Bad Honnef, Germany. ([DPG](https://www.dpg-physik.de/veranstaltungen/2025/searching_for_quantum_gravity_in_the_sky))
